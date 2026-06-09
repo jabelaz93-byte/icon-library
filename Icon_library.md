@@ -1,206 +1,287 @@
-✅ user
-✅ users
-⬜ user-plus
-⬜ user-minus
-⬜ user-check
-⬜ user-x
-✅ accessibility
+# Icon Inventory
 
-✅ home
-✅ building
-⬜ office-building
-✅ government-building
-⬜ warehouse
-⬜ garage
-✅ fence
-⬜ gate
-✅ stairs
-⬜ elevator
-⬜ door
-⬜ window
-⬜ roof
-✅ tree
-✅ waves
-⬜ pool
+## Users
 
-✅ bed
-✅ bathtub
-✅ sofa
-✅ washer
-⬜ dryer
-⬜ refrigerator
-⬜ oven
-⬜ microwave
-⬜ dishwasher
-⬜ sink
-⬜ toilet
-⬜ lamp
-⬜ chair
-⬜ table
-⬜ desk
+- ✅ user
+- ✅ users
+- user-plus
+- user-minus
+- user-check
+- user-x
+- ✅ accessibility
 
-✅ map-pin
-⬜ map
-⬜ compass
-⬜ globe
-⬜ route
-⬜ navigation
-✅ target
-⬜ flag
+## Buildings & Housing
 
-✅ car
-⬜ truck
-⬜ van
-⬜ bus
-✅ train
-✅ plane
-⬜ boat
-⬜ bicycle
-✅ walking
-⬜ parking
+- ✅ home
+- ✅ building
+- office-building
+- ✅ government-building
+- warehouse
+- garage
+- ✅ fence
+- gate
+- ✅ stairs
+- elevator
+- door
+- window
+- roof
+- ✅ tree
+- ✅ waves
+- pool
 
-✅ phone
-⬜ phone-call
-✅ mail
-✅ message-square
-⬜ message-circle
-⬜ chat
-✅ bell
-⬜ bell-off
+## Furniture & Interior
 
-⬜ calendar
-✅ calendar-check
-⬜ calendar-plus
-⬜ calendar-x
-✅ clock
-⬜ timer
-⬜ history
-⬜ stopwatch
+- ✅ bed
+- ✅ bathtub
+- ✅ sofa
+- ✅ washer
+- dryer
+- refrigerator
+- oven
+- microwave
+- dishwasher
+- sink
+- toilet
+- lamp
+- chair
+- table
+- desk
 
-✅ briefcase
-⬜ briefcase-check
-✅ handshake
-⬜ chart-bar
-⬜ chart-line
-⬜ chart-pie
-⬜ presentation
-⬜ wallet
-⬜ credit-card
-⬜ invoice
-⬜ receipt
+## Maps & Navigation
 
-✅ shield
-✅ shield-check
-✅ shield-outline
-✅ lock
-⬜ unlock
-⬜ key
-⬜ fingerprint
-⬜ verified
+- ✅ map-pin
+- map
+- compass
+- globe
+- route
+- navigation
+- ✅ target
+- flag
 
-✅ check
-✅ check-circle
-✅ check-square
-✅ x
-✅ x-circle
-⬜ plus
-⬜ minus
-⬜ edit
-⬜ trash
-⬜ save
-⬜ upload
-⬜ download
-⬜ copy
-⬜ refresh
-⬜ search
-⬜ filter
+## Transportation
 
-✅ arrow-left
-✅ arrow-right
-⬜ arrow-up
-⬜ arrow-down
-⬜ chevron-left
-⬜ chevron-right
-⬜ chevron-up
-⬜ chevron-down
-⬜ menu
-✅ more-horizontal
-⬜ more-vertical
-⬜ close
+- ✅ car
+- truck
+- van
+- bus
+- ✅ train
+- ✅ plane
+- boat
+- bicycle
+- ✅ walking
+- parking
 
-✅ graduation-cap
-⬜ book
-⬜ open-book
-⬜ library
-⬜ certificate
-✅ award-badge
-⬜ school
+## Communication
 
-✅ stethoscope
-✅ hospital
-⬜ ambulance
-⬜ medical-bag
-⬜ heart
-⬜ heart-pulse
-⬜ pill
-⬜ first-aid
+- ✅ phone
+- phone-call
+- ✅ mail
+- ✅ message-square
+- message-circle
+- chat
+- ✅ bell
+- bell-off
 
-✅ hammer
-⬜ wrench
-⬜ screwdriver
-⬜ drill
-⬜ toolbox
-⬜ hard-hat
-⬜ blueprint
-⬜ ruler
-⬜ paint-roller
-⬜ electricity
+## Scheduling
 
-⬜ lightbulb
-⬜ water-drop
-⬜ fire
-⬜ battery
-⬜ plug
-⬜ solar-panel
-⬜ generator
-⬜ wifi
-⬜ router
+- calendar
+- ✅ calendar-check
+- calendar-plus
+- calendar-x
+- ✅ clock
+- timer
+- history
+- stopwatch
 
-✅ cart
-⬜ cart-check
-⬜ bag
-⬜ tag
-⬜ store
-⬜ package
-⬜ truck-delivery
+## Business
 
-⬜ hotel
-⬜ key
-⬜ luggage
-⬜ coffee
-⬜ restaurant
-⬜ utensils
-⬜ chef-hat
-⬜ room-service
+- ✅ briefcase
+- briefcase-check
+- ✅ handshake
+- chart-bar
+- chart-line
+- chart-pie
+- presentation
+- wallet
+- credit-card
+- invoice
+- receipt
 
-✅ paw-print
-⬜ dog
-⬜ cat
-⬜ bird
-⬜ fish
-⬜ horse
+## Security
 
-✅ dumbbell
-⬜ running
-✅ walking
-⬜ bicycle
-⬜ gym
-⬜ trophy
-⬜ medal
+- ✅ shield
+- ✅ shield-check
+- ✅ shield-outline
+- ✅ lock
+- unlock
+- key
+- fingerprint
+- verified
 
-⬜ file
-⬜ file-text
-⬜ file-check
-⬜ file-x
-⬜ folder
-⬜ folder-open
+## Actions
+
+- ✅ check
+- ✅ check-circle
+- ✅ check-square
+- ✅ x
+- ✅ x-circle
+- plus
+- minus
+- edit
+- trash
+- save
+- upload
+- download
+- copy
+- refresh
+- search
+- filter
+
+## Navigation Controls
+
+- ✅ arrow-left
+- ✅ arrow-right
+- arrow-up
+- arrow-down
+- chevron-left
+- chevron-right
+- chevron-up
+- chevron-down
+- menu
+- ✅ more-horizontal
+- more-vertical
+- close
+
+## Education
+
+- ✅ graduation-cap
+- book
+- open-book
+- library
+- certificate
+- ✅ award-badge
+- school
+
+## Healthcare
+
+- ✅ stethoscope
+- ✅ hospital
+- ambulance
+- medical-bag
+- heart
+- heart-pulse
+- pill
+- first-aid
+
+## Trades & Construction
+
+- ✅ hammer
+- wrench
+- screwdriver
+- drill
+- toolbox
+- hard-hat
+- blueprint
+- ruler
+- paint-roller
+- electricity
+
+## Utilities
+
+- lightbulb
+- water-drop
+- fire
+- battery
+- plug
+- solar-panel
+- generator
+- wifi
+- router
+
+## Commerce
+
+- ✅ cart
+- cart-check
+- bag
+- tag
+- store
+- package
+- truck-delivery
+
+## Hospitality
+
+- hotel
+- key
+- luggage
+- coffee
+- restaurant
+- utensils
+- chef-hat
+- room-service
+
+## Animals
+
+- ✅ paw-print
+- dog
+- cat
+- bird
+- fish
+- horse
+
+## Fitness
+
+- ✅ dumbbell
+- running
+- ✅ walking
+- bicycle
+- gym
+- trophy
+- medal
+
+## Files & Documents
+
+- file
+- file-text
+- file-check
+- file-x
+- folder
+- folder-open
+- folder-check
+- document
+- clipboard
+
+## Status
+
+- warning
+- info
+- help
+- question
+- success
+- error
+- pending
+- loading
+
+## Technology
+
+- computer
+- laptop
+- tablet
+- mobile
+- monitor
+- server
+- database
+- cloud
+- code
+- terminal
+
+## AI
+
+- robot
+- brain
+- sparkles
+- automation
+- workflow
+- integration
+- bot
+- magic
+- ✅ zap
