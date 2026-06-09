@@ -20,15 +20,15 @@ All icons are hosted through jsDelivr.
 
 ### URL Format
 
-html https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/[icon-name].svg 
+html https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/[icon-name].svg
 
 ### Example
 
-html https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/shield-check.svg 
+html https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/shield-check.svg
 
 ### Example
 
-html https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/user.svg 
+html https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/user.svg
 
 ---
 
@@ -36,13 +36,13 @@ html https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/user.svg
 
 ### Simple Icon
 
-html <img   src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/shield-check.svg"   alt="Protected" /> 
+html <img   src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/shield-check.svg"   alt="Protected" />
 
 ### Icon With CSS Class
 
-html <img   src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/shield-check.svg"   alt="Protected"   class="icon" /> 
+html <img   src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/shield-check.svg"   alt="Protected"   class="icon" />
 
-css .icon {   width: 48px;   height: 48px; } 
+css .icon { width: 48px; height: 48px; }
 
 ---
 
@@ -52,19 +52,19 @@ Icons can be resized entirely through CSS.
 
 ### Small
 
-css .icon-small {   width: 24px;   height: 24px; } 
+css .icon-small { width: 24px; height: 24px; }
 
 ### Medium
 
-css .icon-medium {   width: 48px;   height: 48px; } 
+css .icon-medium { width: 48px; height: 48px; }
 
 ### Large
 
-css .icon-large {   width: 72px;   height: 72px; } 
+css .icon-large { width: 72px; height: 72px; }
 
 ### Extra Large
 
-css .icon-xl {   width: 96px;   height: 96px; } 
+css .icon-xl { width: 96px; height: 96px; }
 
 ---
 
@@ -82,43 +82,43 @@ This allows a single icon file to be reused across multiple websites and color s
 
 No filter required.
 
-css .icon-black {   filter: none; } 
+css .icon-black { filter: none; }
 
 ---
 
 ## White Icon
 
-css .icon-white {   filter: brightness(0) invert(1); } 
+css .icon-white { filter: brightness(0) invert(1); }
 
 ---
 
 ## Gold Icon
 
-css .icon-gold {   filter:     brightness(0)     saturate(100%)     invert(74%)     sepia(53%)     saturate(611%)     hue-rotate(8deg)     brightness(96%)     contrast(88%); } 
+css .icon-gold { filter: brightness(0) saturate(100%) invert(71%) sepia(24%) saturate(857%) hue-rotate(5deg) brightness(95%) contrast(89%); }
 
 ---
 
 ## Pink Icon
 
-css .icon-pink {   filter:     brightness(0)     saturate(100%)     invert(68%)     sepia(60%)     saturate(2484%)     hue-rotate(292deg)     brightness(98%)     contrast(92%); } 
+css .icon-pink { filter: brightness(0) saturate(100%) invert(56%) sepia(88%) saturate(2156%) hue-rotate(296deg) brightness(103%) contrast(102%); }
 
 ---
 
 ## Turquoise Icon
 
-css .icon-turquoise {   filter:     brightness(0)     saturate(100%)     invert(77%)     sepia(78%)     saturate(5030%)     hue-rotate(145deg)     brightness(94%)     contrast(86%); } 
+css .icon-turquoise { filter: brightness(0) saturate(100%) invert(58%) sepia(85%) saturate(2210%) hue-rotate(145deg) brightness(95%) contrast(101%); }
 
 ---
 
 ## Green Icon
 
-css .icon-green {   filter:     brightness(0)     saturate(100%)     invert(63%)     sepia(98%)     saturate(5937%)     hue-rotate(89deg)     brightness(105%)     contrast(118%); } 
+css .icon-green { filter: brightness(0) saturate(100%) invert(57%) sepia(94%) saturate(1100%) hue-rotate(80deg) brightness(95%) contrast(95%); }
 
 ---
 
 ## Applying a Color
 
-html <img   src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/shield-check.svg"   alt="Protected"   class="icon icon-gold" /> 
+html <img   src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/shield-check.svg"   alt="Protected"   class="icon icon-gold" />
 
 ---
 
@@ -126,11 +126,11 @@ html <img   src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/shield-
 
 ### HTML
 
-html <button class="housing-btn">   <img     src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/shield-check.svg"     alt="Protected"     class="housing-btn-icon icon-gold"   />   <span>Protected</span> </button> 
+html <button class="housing-btn"> <img     src="https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/shield-check.svg"     alt="Protected"     class="housing-btn-icon icon-gold"   /> <span>Protected</span> </button>
 
 ### CSS
 
-css .housing-btn {   display: inline-flex;   align-items: center;   gap: 28px;   padding: 28px 40px;   border: none;   border-radius: 32px;   background: #ffffff;   color: #000000;   font-size: 32px;   font-weight: 700; }  .housing-btn-icon {   width: 92px;   height: 92px; }  .icon-gold {   filter:     brightness(0)     saturate(100%)     invert(74%)     sepia(53%)     saturate(611%)     hue-rotate(8deg)     brightness(96%)     contrast(88%); } 
+css .housing-btn { display: inline-flex; align-items: center; gap: 28px; padding: 28px 40px; border: none; border-radius: 32px; background: #ffffff; color: #000000; font-size: 32px; font-weight: 700; } .housing-btn-icon { width: 92px; height: 92px; } .icon-gold { filter: brightness(0) saturate(100%) invert(71%) sepia(24%) saturate(857%) hue-rotate(5deg) brightness(95%) contrast(89%); }
 
 ---
 
@@ -145,16 +145,16 @@ To generate a new color:
 
 ### Example
 
-css .icon-custom {   filter: /* custom filter */; } 
+css .icon-custom { filter: /_ custom filter _/; }
 
 ---
 
 ## Direct CDN Reference
 
-Repository CDN root:
+### Repository CDN Root
 
-text https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/ 
+text https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/
 
-Single icon example:
+### Single Icon Example
 
-text https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/shield-check.svg 
+text https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/shield-check.svg
