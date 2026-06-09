@@ -1,239 +1,206 @@
-user
-users
-user-plus
-user-minus
-user-check
-user-x
-accessibility
+✅ user
+✅ users
+⬜ user-plus
+⬜ user-minus
+⬜ user-check
+⬜ user-x
+✅ accessibility
 
-home
-building
-office-building
-government-building
-warehouse
-garage
-fence
-gate
-stairs
-elevator
-door
-window
-roof
-tree
-waves
-pool
+✅ home
+✅ building
+⬜ office-building
+✅ government-building
+⬜ warehouse
+⬜ garage
+✅ fence
+⬜ gate
+✅ stairs
+⬜ elevator
+⬜ door
+⬜ window
+⬜ roof
+✅ tree
+✅ waves
+⬜ pool
 
-bed
-bathtub
-sofa
-washer
-dryer
-refrigerator
-oven
-microwave
-dishwasher
-sink
-toilet
-lamp
-chair
-table
-desk
+✅ bed
+✅ bathtub
+✅ sofa
+✅ washer
+⬜ dryer
+⬜ refrigerator
+⬜ oven
+⬜ microwave
+⬜ dishwasher
+⬜ sink
+⬜ toilet
+⬜ lamp
+⬜ chair
+⬜ table
+⬜ desk
 
-map-pin
-map
-compass
-globe
-route
-navigation
-target
-flag
+✅ map-pin
+⬜ map
+⬜ compass
+⬜ globe
+⬜ route
+⬜ navigation
+✅ target
+⬜ flag
 
-car
-truck
-van
-bus
-train
-plane
-boat
-bicycle
-walking
-parking
+✅ car
+⬜ truck
+⬜ van
+⬜ bus
+✅ train
+✅ plane
+⬜ boat
+⬜ bicycle
+✅ walking
+⬜ parking
 
-phone
-phone-call
-mail
-message-square
-message-circle
-chat
-bell
-bell-off
+✅ phone
+⬜ phone-call
+✅ mail
+✅ message-square
+⬜ message-circle
+⬜ chat
+✅ bell
+⬜ bell-off
 
-calendar
-calendar-check
-calendar-plus
-calendar-x
-clock
-timer
-history
-stopwatch
+⬜ calendar
+✅ calendar-check
+⬜ calendar-plus
+⬜ calendar-x
+✅ clock
+⬜ timer
+⬜ history
+⬜ stopwatch
 
-briefcase
-briefcase-check
-handshake
-chart-bar
-chart-line
-chart-pie
-presentation
-wallet
-credit-card
-invoice
-receipt
+✅ briefcase
+⬜ briefcase-check
+✅ handshake
+⬜ chart-bar
+⬜ chart-line
+⬜ chart-pie
+⬜ presentation
+⬜ wallet
+⬜ credit-card
+⬜ invoice
+⬜ receipt
 
-shield
-shield-check
-shield-outline
-lock
-unlock
-key
-fingerprint
-verified
+✅ shield
+✅ shield-check
+✅ shield-outline
+✅ lock
+⬜ unlock
+⬜ key
+⬜ fingerprint
+⬜ verified
 
-check
-check-circle
-check-square
-x
-x-circle
-plus
-minus
-edit
-trash
-save
-upload
-download
-copy
-refresh
-search
-filter
+✅ check
+✅ check-circle
+✅ check-square
+✅ x
+✅ x-circle
+⬜ plus
+⬜ minus
+⬜ edit
+⬜ trash
+⬜ save
+⬜ upload
+⬜ download
+⬜ copy
+⬜ refresh
+⬜ search
+⬜ filter
 
-arrow-left
-arrow-right
-arrow-up
-arrow-down
-chevron-left
-chevron-right
-chevron-up
-chevron-down
-menu
-more-horizontal
-more-vertical
-close
+✅ arrow-left
+✅ arrow-right
+⬜ arrow-up
+⬜ arrow-down
+⬜ chevron-left
+⬜ chevron-right
+⬜ chevron-up
+⬜ chevron-down
+⬜ menu
+✅ more-horizontal
+⬜ more-vertical
+⬜ close
 
-graduation-cap
-book
-open-book
-library
-certificate
-award-badge
-school
+✅ graduation-cap
+⬜ book
+⬜ open-book
+⬜ library
+⬜ certificate
+✅ award-badge
+⬜ school
 
-stethoscope
-hospital
-ambulance
-medical-bag
-heart
-heart-pulse
-pill
-first-aid
+✅ stethoscope
+✅ hospital
+⬜ ambulance
+⬜ medical-bag
+⬜ heart
+⬜ heart-pulse
+⬜ pill
+⬜ first-aid
 
-hammer
-wrench
-screwdriver
-drill
-toolbox
-hard-hat
-blueprint
-ruler
-paint-roller
-electricity
+✅ hammer
+⬜ wrench
+⬜ screwdriver
+⬜ drill
+⬜ toolbox
+⬜ hard-hat
+⬜ blueprint
+⬜ ruler
+⬜ paint-roller
+⬜ electricity
 
-lightbulb
-water-drop
-fire
-battery
-plug
-solar-panel
-generator
-wifi
-router
+⬜ lightbulb
+⬜ water-drop
+⬜ fire
+⬜ battery
+⬜ plug
+⬜ solar-panel
+⬜ generator
+⬜ wifi
+⬜ router
 
-cart
-cart-check
-bag
-tag
-store
-package
-truck-delivery
+✅ cart
+⬜ cart-check
+⬜ bag
+⬜ tag
+⬜ store
+⬜ package
+⬜ truck-delivery
 
-hotel
-key
-luggage
-coffee
-restaurant
-utensils
-chef-hat
-room-service
+⬜ hotel
+⬜ key
+⬜ luggage
+⬜ coffee
+⬜ restaurant
+⬜ utensils
+⬜ chef-hat
+⬜ room-service
 
-paw-print
-dog
-cat
-bird
-fish
-horse
+✅ paw-print
+⬜ dog
+⬜ cat
+⬜ bird
+⬜ fish
+⬜ horse
 
-dumbbell
-running
-walking
-bicycle
-gym
-trophy
-medal
+✅ dumbbell
+⬜ running
+✅ walking
+⬜ bicycle
+⬜ gym
+⬜ trophy
+⬜ medal
 
-file
-file-text
-file-check
-file-x
-folder
-folder-open
-folder-check
-document
-clipboard
-
-warning
-info
-help
-question
-success
-error
-pending
-loading
-
-computer
-laptop
-tablet
-mobile
-monitor
-server
-database
-cloud
-code
-terminal
-
-robot
-brain
-sparkles
-automation
-workflow
-integration
-bot
-magic
-zap
+⬜ file
+⬜ file-text
+⬜ file-check
+⬜ file-x
+⬜ folder
+⬜ folder-open
