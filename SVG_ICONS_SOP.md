@@ -158,3 +158,29 @@ text https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/
 ### Single Icon Example
 
 text https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library/icon_library2/shield-check.svg
+
+Observations:
+
+success
+→ check-circle.svg
+→ color: green
+
+error
+→ x.svg or close.svg
+→ color: red
+
+warning
+→ warning.svg
+→ color: amber
+
+info
+→ info.svg
+→ color: blue
+
+pending
+→ pending.svg
+→ color: amber
+
+loading
+→ loading.svg
+→ animated if desired
