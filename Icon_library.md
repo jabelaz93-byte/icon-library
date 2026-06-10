@@ -141,16 +141,16 @@
 
 - ✅ arrow-left
 - ✅ arrow-right
-- arrow-up
-- arrow-down
-- chevron-left
-- chevron-right
-- chevron-up
-- chevron-down
-- menu
+- ✅ arrow-up
+- ✅ arrow-down
+- ✅ chevron-left
+- ✅ chevron-right
+- ✅ chevron-up
+- ✅ chevron-down
+- ✅ menu
 - ✅ more-horizontal
-- more-vertical
-- close
+- ✅ more-vertical
+- ✅ close
 
 ## Education
 
