@@ -1,65 +1,53 @@
-1. User
+user.svg
 
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
-  <circle cx="256" cy="148" r="75" stroke="#000000" stroke-width="32"/>
-  <path d="M116 389C116 315 178 265 256 265C334 265 396 315 396 389C396 411 378 429 356 429H156C134 429 116 411 116 389Z" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <circle cx="256" cy="168" r="72" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M128 408c0-78 57-136 128-136s128 58 128 136" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
-⸻
+users.svg
 
-2. Users
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
-  <g opacity="1">
-    <circle cx="181" cy="165" r="60" stroke="#000000" stroke-width="32"/>
-    <path d="M69 397C69 338 119 298 181 298C243 298 293 338 293 397C293 415 279 429 261 429H101C83 429 69 415 69 397Z" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
-  </g>
-  <circle cx="294" cy="148" r="75" stroke="#000000" stroke-width="32"/>
-  <path d="M154 389C154 315 216 265 294 265C372 265 434 315 434 389C434 411 416 429 394 429H194C172 429 154 411 154 389Z" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <circle cx="318" cy="160" r="58" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M246 386c8-57 51-98 104-98 59 0 106 47 106 112" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="218" cy="178" r="72" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M90 418c0-78 57-136 128-136s128 58 128 136" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
-⸻
+user-plus.svg
 
-3. User Plus
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
-  <circle cx="256" cy="148" r="75" stroke="#000000" stroke-width="32"/>
-  <path d="M116 389C116 315 178 265 256 265C334 265 396 315 396 389C396 411 378 429 356 429H156C134 429 116 411 116 389Z" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="382" cy="374" r="55" stroke="#000000" stroke-width="32"/>
-  <path d="M382 344V404M352 374H412" stroke="#000000" stroke-width="32" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <circle cx="236" cy="160" r="72" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 400c0-78 57-136 128-136s128 58 128 136" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="382" cy="362" r="66" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M382 334v56" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M354 362h56" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
-⸻
+user-minus.svg
 
-4. User Minus
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
-  <circle cx="256" cy="148" r="75" stroke="#000000" stroke-width="32"/>
-  <path d="M116 389C116 315 178 265 256 265C334 265 396 315 396 389C396 411 378 429 356 429H156C134 429 116 411 116 389Z" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="382" cy="374" r="55" stroke="#000000" stroke-width="32"/>
-  <path d="M352 374H412" stroke="#000000" stroke-width="32" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <circle cx="236" cy="160" r="72" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 400c0-78 57-136 128-136s128 58 128 136" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="382" cy="362" r="66" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M352 362h60" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
-⸻
+user-check.svg
 
-5. User Check
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
-  <circle cx="256" cy="148" r="75" stroke="#000000" stroke-width="32"/>
-  <path d="M116 389C116 315 178 265 256 265C334 265 396 315 396 389C396 411 378 429 356 429H156C134 429 116 411 116 389Z" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="382" cy="374" r="55" stroke="#000000" stroke-width="32"/>
-  <path d="M351 374L373 397L415 348" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <circle cx="236" cy="160" r="72" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 400c0-78 57-136 128-136s128 58 128 136" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="382" cy="362" r="66" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M350 362l22 22 44-48" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
 
-⸻
+user-x.svg
 
-6. User X
-
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
-  <circle cx="256" cy="148" r="75" stroke="#000000" stroke-width="32"/>
-  <path d="M116 389C116 315 178 265 256 265C334 265 396 315 396 389C396 411 378 429 356 429H156C134 429 116 411 116 389Z" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
-  <circle cx="382" cy="374" r="55" stroke="#000000" stroke-width="32"/>
-  <path d="M355 347L409 401M409 347L355 401" stroke="#000000" stroke-width="32" stroke-linecap="round"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <circle cx="236" cy="160" r="72" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M108 400c0-78 57-136 128-136s128 58 128 136" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <circle cx="382" cy="362" r="66" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M358 338l48 48" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M406 338l-48 48" fill="none" stroke="#000000" stroke-width="32" stroke-linecap="round" stroke-linejoin="round"/>
 </svg>
-
-⸻
