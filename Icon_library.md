@@ -76,7 +76,7 @@
 - ✅ phone
 - ✅ phone-call
 - ✅ mail
-- ✅ message-square
+- ❌ message-square
 - ✅ message-circle
 - ✅ chat
 - ✅ bell
@@ -124,7 +124,7 @@
 - ✅ check-circle
 - ✅ check-square
 - ✅ x
-- ✅ x-circle
+- ❌ x-circle
 - ✅ plus
 - ✅ minus
 - ✅ edit
@@ -135,7 +135,7 @@
 - ✅ copy
 - ✅ refresh
 - ✅ search
-- ✅ filter
+- ✅ funnel
 
 ## Navigation Controls
 
@@ -155,35 +155,35 @@
 ## Education
 
 - ✅ graduation-cap
-- book
-- open-book
-- library
+- ✅ book
+- ✅ open-book
+- ✅ library
 - certificate
 - ✅ award-badge
-- school
+- ✅ school
 
 ## Healthcare
 
 - ✅ stethoscope
 - ✅ hospital
-- ambulance
+- ✅ ambulance
 - medical-bag
-- heart
-- heart-pulse
-- pill
-- first-aid
+- ✅ heart
+- ✅ heart-pulse
+- ✅ pill
+- ✅ first-aid
 
 ## Trades & Construction
 
 - ✅ hammer
-- wrench
-- screwdriver
-- drill
-- toolbox
-- hard-hat
-- blueprint
-- ruler
-- paint-roller
+- ✅ wrench
+- ✅ screwdriver
+- ✅ drill
+- ✅ toolbox
+- ✅ hard-hat
+- ✅ blueprint
+- ✅ ruler
+- ✅ paint-roller
 - electricity
 
 ## Utilities
@@ -206,7 +206,7 @@
 - tag
 - store
 - package
-- ✅ truck-delivery
+- ✅ truck
 
 ## Hospitality
 
@@ -249,6 +249,7 @@
 - folder-check
 - document
 - clipboard
+- ✅ bookmark
 
 ## Status
 
@@ -285,4 +286,3 @@
 - bot
 - magic
 - ✅ zap
-
