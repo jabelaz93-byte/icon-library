@@ -4,30 +4,30 @@
 
 - ✅ user
 - ✅ users
-- user-plus
-- user-minus
-- user-check
-- user-x
+- ✅ user-plus
+- ✅ user-minus
+- ✅ user-check
+- ✅ user-x
 - ✅ accessibility
 
 ## Buildings & Housing
 
 - ✅ home
 - ✅ building
-- office-building
+- ✅ office-building
 - ✅ government-building
-- warehouse
-- garage
+- ✅ warehouse
+- ✅ garage
 - ✅ fence
-- gate
+- ✅ gate
 - ✅ stairs
-- elevator
-- door
-- window
-- roof
+- ✅ elevator
+- ✅ door
+- ✅ window
+- ✅ roof
 - ✅ tree
 - ✅ waves
-- pool
+- ✅ pool
 
 ## Furniture & Interior
 
@@ -35,77 +35,77 @@
 - ✅ bathtub
 - ✅ sofa
 - ✅ washer
-- dryer
-- refrigerator
-- oven
-- microwave
-- dishwasher
-- sink
-- toilet
-- lamp
-- chair
-- table
-- desk
+- ✅ dryer
+- ✅ refrigerator
+- ✅ oven
+- ✅ microwave
+- ✅ dishwasher
+- ✅ sink
+- ✅ toilet
+- ✅ lamp
+- ✅ chair
+- ✅ table
+- ✅ desk
 
 ## Maps & Navigation
 
 - ✅ map-pin
-- map
-- compass
-- globe
-- route
-- navigation
+- ✅ map
+- ✅ compass
+- ✅ globe
+- ✅ route
+- ✅ navigation
 - ✅ target
-- flag
+- ✅ flag
 
 ## Transportation
 
 - ✅ car
-- truck
-- van
-- bus
+- ✅ truck
+- ✅ van
+- ✅ bus
 - ✅ train
 - ✅ plane
-- boat
-- bicycle
+- ✅ boat
+- ✅ bicycle
 - ✅ walking
 - parking
 
 ## Communication
 
 - ✅ phone
-- phone-call
+- ✅ phone-call
 - ✅ mail
 - ✅ message-square
-- message-circle
-- chat
+- ✅ message-circle
+- ✅ chat
 - ✅ bell
-- bell-off
+- ✅ bell-off
 
 ## Scheduling
 
-- calendar
+- ✅ calendar
 - ✅ calendar-check
 - calendar-plus
 - calendar-x
 - ✅ clock
 - timer
-- history
-- stopwatch
+- ✅ history
+- ✅ stopwatch
 
 ## Business
 
 - ✅ briefcase
-- briefcase-check
+- ✅ briefcase-check
 - ✅ handshake
-- chart-bar
-- chart-line
-- chart-pie
-- presentation
-- wallet
-- credit-card
-- invoice
-- receipt
+- ✅ chart-bar
+- ✅ chart-line
+- ✅ chart-pie
+- ✅ presentation
+- ✅ wallet
+- ✅ credit-card
+- ✅ invoice
+- ✅ receipt
 
 ## Security
 
@@ -113,10 +113,10 @@
 - ✅ shield-check
 - ✅ shield-outline
 - ✅ lock
-- unlock
-- key
-- fingerprint
-- verified
+- ✅ unlock
+- ✅ key
+- ✅ fingerprint
+- ✅ verified
 
 ## Actions
 
@@ -125,17 +125,17 @@
 - ✅ check-square
 - ✅ x
 - ✅ x-circle
-- plus
-- minus
-- edit
-- trash
+- ✅ plus
+- ✅ minus
+- ✅ edit
+- ✅ trash
 - save
-- upload
-- download
-- copy
-- refresh
-- search
-- filter
+- ✅ upload
+- ✅ download
+- ✅ copy
+- ✅ refresh
+- ✅ search
+- ✅ filter
 
 ## Navigation Controls
 
@@ -206,12 +206,12 @@
 - tag
 - store
 - package
-- truck-delivery
+- ✅ truck-delivery
 
 ## Hospitality
 
 - hotel
-- key
+- ✅ key
 - luggage
 - coffee
 - restaurant
@@ -233,7 +233,7 @@
 - ✅ dumbbell
 - running
 - ✅ walking
-- bicycle
+- ✅ bicycle
 - gym
 - trophy
 - medal
