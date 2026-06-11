@@ -1,0 +1,3048 @@
+{
+  "name": "Icon Library",
+  "repository": "https://github.com/jabelaz93-byte/icon-library",
+  "cdnProvider": "jsDelivr",
+  "cdnRoot": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/",
+  "totalIcons": 266,
+  "folders": [
+    "All",
+    "calendar_icons",
+    "icon_library_outline",
+    "socials"
+  ],
+  "icons": [
+    {
+      "name": "calendar-1",
+      "file": "calendar-1.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-1.svg",
+      "tags": [
+        "calendar",
+        "1"
+      ]
+    },
+    {
+      "name": "calendar-10",
+      "file": "calendar-10.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-10.svg",
+      "tags": [
+        "calendar",
+        "10"
+      ]
+    },
+    {
+      "name": "calendar-11",
+      "file": "calendar-11.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-11.svg",
+      "tags": [
+        "calendar",
+        "11"
+      ]
+    },
+    {
+      "name": "calendar-12",
+      "file": "calendar-12.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-12.svg",
+      "tags": [
+        "calendar",
+        "12"
+      ]
+    },
+    {
+      "name": "calendar-14",
+      "file": "calendar-14.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-14.svg",
+      "tags": [
+        "calendar",
+        "14"
+      ]
+    },
+    {
+      "name": "calendar-15",
+      "file": "calendar-15.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-15.svg",
+      "tags": [
+        "calendar",
+        "15"
+      ]
+    },
+    {
+      "name": "calendar-16",
+      "file": "calendar-16.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-16.svg",
+      "tags": [
+        "calendar",
+        "16"
+      ]
+    },
+    {
+      "name": "calendar-17",
+      "file": "calendar-17.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-17.svg",
+      "tags": [
+        "calendar",
+        "17"
+      ]
+    },
+    {
+      "name": "calendar-18",
+      "file": "calendar-18.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-18.svg",
+      "tags": [
+        "calendar",
+        "18"
+      ]
+    },
+    {
+      "name": "calendar-19",
+      "file": "calendar-19.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-19.svg",
+      "tags": [
+        "calendar",
+        "19"
+      ]
+    },
+    {
+      "name": "calendar-2",
+      "file": "calendar-2.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-2.svg",
+      "tags": [
+        "calendar",
+        "2"
+      ]
+    },
+    {
+      "name": "calendar-20",
+      "file": "calendar-20.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-20.svg",
+      "tags": [
+        "calendar",
+        "20"
+      ]
+    },
+    {
+      "name": "calendar-21",
+      "file": "calendar-21.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-21.svg",
+      "tags": [
+        "calendar",
+        "21"
+      ]
+    },
+    {
+      "name": "calendar-22",
+      "file": "calendar-22.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-22.svg",
+      "tags": [
+        "calendar",
+        "22"
+      ]
+    },
+    {
+      "name": "calendar-23",
+      "file": "calendar-23.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-23.svg",
+      "tags": [
+        "calendar",
+        "23"
+      ]
+    },
+    {
+      "name": "calendar-24",
+      "file": "calendar-24.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-24.svg",
+      "tags": [
+        "calendar",
+        "24"
+      ]
+    },
+    {
+      "name": "calendar-25",
+      "file": "calendar-25.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-25.svg",
+      "tags": [
+        "calendar",
+        "25"
+      ]
+    },
+    {
+      "name": "calendar-26",
+      "file": "calendar-26.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-26.svg",
+      "tags": [
+        "calendar",
+        "26"
+      ]
+    },
+    {
+      "name": "calendar-27",
+      "file": "calendar-27.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-27.svg",
+      "tags": [
+        "calendar",
+        "27"
+      ]
+    },
+    {
+      "name": "calendar-28",
+      "file": "calendar-28.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-28.svg",
+      "tags": [
+        "calendar",
+        "28"
+      ]
+    },
+    {
+      "name": "calendar-29",
+      "file": "calendar-29.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-29.svg",
+      "tags": [
+        "calendar",
+        "29"
+      ]
+    },
+    {
+      "name": "calendar-3",
+      "file": "calendar-3.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-3.svg",
+      "tags": [
+        "calendar",
+        "3"
+      ]
+    },
+    {
+      "name": "calendar-30",
+      "file": "calendar-30.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-30.svg",
+      "tags": [
+        "calendar",
+        "30"
+      ]
+    },
+    {
+      "name": "calendar-31",
+      "file": "calendar-31.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-31.svg",
+      "tags": [
+        "calendar",
+        "31"
+      ]
+    },
+    {
+      "name": "calendar-4",
+      "file": "calendar-4.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-4.svg",
+      "tags": [
+        "calendar",
+        "4"
+      ]
+    },
+    {
+      "name": "calendar-5",
+      "file": "calendar-5.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-5.svg",
+      "tags": [
+        "calendar",
+        "5"
+      ]
+    },
+    {
+      "name": "calendar-6",
+      "file": "calendar-6.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-6.svg",
+      "tags": [
+        "calendar",
+        "6"
+      ]
+    },
+    {
+      "name": "calendar-7",
+      "file": "calendar-7.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-7.svg",
+      "tags": [
+        "calendar",
+        "7"
+      ]
+    },
+    {
+      "name": "calendar-8",
+      "file": "calendar-8.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-8.svg",
+      "tags": [
+        "calendar",
+        "8"
+      ]
+    },
+    {
+      "name": "calendar-9",
+      "file": "calendar-9.svg",
+      "folder": "calendar_icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar_icons/calendar-9.svg",
+      "tags": [
+        "calendar",
+        "9"
+      ]
+    },
+    {
+      "name": "accessibility",
+      "file": "accessibility.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/accessibility.svg",
+      "tags": [
+        "accessibility"
+      ]
+    },
+    {
+      "name": "ambulance",
+      "file": "ambulance.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/ambulance.svg",
+      "tags": [
+        "ambulance"
+      ]
+    },
+    {
+      "name": "arrow-down",
+      "file": "arrow-down.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/arrow-down.svg",
+      "tags": [
+        "arrow",
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-left",
+      "file": "arrow-left.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/arrow-left.svg",
+      "tags": [
+        "arrow",
+        "left"
+      ]
+    },
+    {
+      "name": "arrow-right",
+      "file": "arrow-right.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/arrow-right.svg",
+      "tags": [
+        "arrow",
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-up",
+      "file": "arrow-up.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/arrow-up.svg",
+      "tags": [
+        "arrow",
+        "up"
+      ]
+    },
+    {
+      "name": "automation",
+      "file": "automation.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/automation.svg",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "name": "award-badge",
+      "file": "award-badge.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/award-badge.svg",
+      "tags": [
+        "award",
+        "badge"
+      ]
+    },
+    {
+      "name": "bag",
+      "file": "bag.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bag.svg",
+      "tags": [
+        "bag"
+      ]
+    },
+    {
+      "name": "bathtub",
+      "file": "bathtub.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bathtub.svg",
+      "tags": [
+        "bathtub"
+      ]
+    },
+    {
+      "name": "battery",
+      "file": "battery.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/battery.svg",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "name": "bed",
+      "file": "bed.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bed.svg",
+      "tags": [
+        "bed"
+      ]
+    },
+    {
+      "name": "bell-off",
+      "file": "bell-off.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bell-off.svg",
+      "tags": [
+        "bell",
+        "off"
+      ]
+    },
+    {
+      "name": "bell",
+      "file": "bell.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bell.svg",
+      "tags": [
+        "bell"
+      ]
+    },
+    {
+      "name": "bicycle",
+      "file": "bicycle.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bicycle.svg",
+      "tags": [
+        "bicycle"
+      ]
+    },
+    {
+      "name": "bird",
+      "file": "bird.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bird.svg",
+      "tags": [
+        "bird"
+      ]
+    },
+    {
+      "name": "blueprint",
+      "file": "blueprint.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/blueprint.svg",
+      "tags": [
+        "blueprint"
+      ]
+    },
+    {
+      "name": "boat",
+      "file": "boat.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/boat.svg",
+      "tags": [
+        "boat"
+      ]
+    },
+    {
+      "name": "book",
+      "file": "book.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/book.svg",
+      "tags": [
+        "book"
+      ]
+    },
+    {
+      "name": "bookmark",
+      "file": "bookmark.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bookmark.svg",
+      "tags": [
+        "bookmark"
+      ]
+    },
+    {
+      "name": "bot",
+      "file": "bot.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bot.svg",
+      "tags": [
+        "bot"
+      ]
+    },
+    {
+      "name": "brain",
+      "file": "brain.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/brain.svg",
+      "tags": [
+        "brain"
+      ]
+    },
+    {
+      "name": "briefcase-check",
+      "file": "briefcase-check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/briefcase-check.svg",
+      "tags": [
+        "briefcase",
+        "check"
+      ]
+    },
+    {
+      "name": "briefcase",
+      "file": "briefcase.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/briefcase.svg",
+      "tags": [
+        "briefcase"
+      ]
+    },
+    {
+      "name": "building",
+      "file": "building.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/building.svg",
+      "tags": [
+        "building"
+      ]
+    },
+    {
+      "name": "bus",
+      "file": "bus.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/bus.svg",
+      "tags": [
+        "bus"
+      ]
+    },
+    {
+      "name": "calendar-check",
+      "file": "calendar-check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/calendar-check.svg",
+      "tags": [
+        "calendar",
+        "check"
+      ]
+    },
+    {
+      "name": "calendar",
+      "file": "calendar.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/calendar.svg",
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "name": "car",
+      "file": "car.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/car.svg",
+      "tags": [
+        "car"
+      ]
+    },
+    {
+      "name": "cart-check",
+      "file": "cart-check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/cart-check.svg",
+      "tags": [
+        "cart",
+        "check"
+      ]
+    },
+    {
+      "name": "cart",
+      "file": "cart.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/cart.svg",
+      "tags": [
+        "cart"
+      ]
+    },
+    {
+      "name": "cat",
+      "file": "cat.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/cat.svg",
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "name": "certificate",
+      "file": "certificate.png",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "png",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/certificate.png",
+      "tags": [
+        "certificate"
+      ]
+    },
+    {
+      "name": "chair",
+      "file": "chair.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chair.svg",
+      "tags": [
+        "chair"
+      ]
+    },
+    {
+      "name": "chart-bar",
+      "file": "chart-bar.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chart-bar.svg",
+      "tags": [
+        "chart",
+        "bar"
+      ]
+    },
+    {
+      "name": "chart-line-up",
+      "file": "chart-line-up.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chart-line-up.svg",
+      "tags": [
+        "chart",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "name": "chart-line",
+      "file": "chart-line.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chart-line.svg",
+      "tags": [
+        "chart",
+        "line"
+      ]
+    },
+    {
+      "name": "chart-pie",
+      "file": "chart-pie.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chart-pie.svg",
+      "tags": [
+        "chart",
+        "pie"
+      ]
+    },
+    {
+      "name": "chat",
+      "file": "chat.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chat.svg",
+      "tags": [
+        "chat"
+      ]
+    },
+    {
+      "name": "check-circle",
+      "file": "check-circle.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/check-circle.svg",
+      "tags": [
+        "check",
+        "circle"
+      ]
+    },
+    {
+      "name": "check-square",
+      "file": "check-square.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/check-square.svg",
+      "tags": [
+        "check",
+        "square"
+      ]
+    },
+    {
+      "name": "check",
+      "file": "check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/check.svg",
+      "tags": [
+        "check"
+      ]
+    },
+    {
+      "name": "chef-hat",
+      "file": "chef-hat.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chef-hat.svg",
+      "tags": [
+        "chef",
+        "hat"
+      ]
+    },
+    {
+      "name": "chevron-down",
+      "file": "chevron-down.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chevron-down.svg",
+      "tags": [
+        "chevron",
+        "down"
+      ]
+    },
+    {
+      "name": "chevron-left",
+      "file": "chevron-left.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chevron-left.svg",
+      "tags": [
+        "chevron",
+        "left"
+      ]
+    },
+    {
+      "name": "chevron-right",
+      "file": "chevron-right.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chevron-right.svg",
+      "tags": [
+        "chevron",
+        "right"
+      ]
+    },
+    {
+      "name": "chevron-up",
+      "file": "chevron-up.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/chevron-up.svg",
+      "tags": [
+        "chevron",
+        "up"
+      ]
+    },
+    {
+      "name": "circle",
+      "file": "circle.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/circle.svg",
+      "tags": [
+        "circle"
+      ]
+    },
+    {
+      "name": "clipboard",
+      "file": "clipboard.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/clipboard.svg",
+      "tags": [
+        "clipboard"
+      ]
+    },
+    {
+      "name": "clock",
+      "file": "clock.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/clock.svg",
+      "tags": [
+        "clock"
+      ]
+    },
+    {
+      "name": "close",
+      "file": "close.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/close.svg",
+      "tags": [
+        "close"
+      ]
+    },
+    {
+      "name": "cloud",
+      "file": "cloud.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/cloud.svg",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "code",
+      "file": "code.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/code.svg",
+      "tags": [
+        "code"
+      ]
+    },
+    {
+      "name": "coffee",
+      "file": "coffee.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/coffee.svg",
+      "tags": [
+        "coffee"
+      ]
+    },
+    {
+      "name": "compass",
+      "file": "compass.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/compass.svg",
+      "tags": [
+        "compass"
+      ]
+    },
+    {
+      "name": "computer",
+      "file": "computer.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/computer.svg",
+      "tags": [
+        "computer"
+      ]
+    },
+    {
+      "name": "copy",
+      "file": "copy.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/copy.svg",
+      "tags": [
+        "copy"
+      ]
+    },
+    {
+      "name": "credit-card",
+      "file": "credit-card.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/credit-card.svg",
+      "tags": [
+        "credit",
+        "card"
+      ]
+    },
+    {
+      "name": "database",
+      "file": "database.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/database.svg",
+      "tags": [
+        "database"
+      ]
+    },
+    {
+      "name": "desk",
+      "file": "desk.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/desk.svg",
+      "tags": [
+        "desk"
+      ]
+    },
+    {
+      "name": "diamond",
+      "file": "diamond.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/diamond.svg",
+      "tags": [
+        "diamond"
+      ]
+    },
+    {
+      "name": "dishwasher",
+      "file": "dishwasher.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/dishwasher.svg",
+      "tags": [
+        "dishwasher"
+      ]
+    },
+    {
+      "name": "document",
+      "file": "document.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/document.svg",
+      "tags": [
+        "document"
+      ]
+    },
+    {
+      "name": "dog",
+      "file": "dog.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/dog.svg",
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "name": "door",
+      "file": "door.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/door.svg",
+      "tags": [
+        "door"
+      ]
+    },
+    {
+      "name": "download",
+      "file": "download.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/download.svg",
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "drill",
+      "file": "drill.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/drill.svg",
+      "tags": [
+        "drill"
+      ]
+    },
+    {
+      "name": "dryer",
+      "file": "dryer.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/dryer.svg",
+      "tags": [
+        "dryer"
+      ]
+    },
+    {
+      "name": "dumbbell",
+      "file": "dumbbell.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/dumbbell.svg",
+      "tags": [
+        "dumbbell"
+      ]
+    },
+    {
+      "name": "edit",
+      "file": "edit.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/edit.svg",
+      "tags": [
+        "edit"
+      ]
+    },
+    {
+      "name": "elevator",
+      "file": "elevator.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/elevator.svg",
+      "tags": [
+        "elevator"
+      ]
+    },
+    {
+      "name": "fence",
+      "file": "fence.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/fence.svg",
+      "tags": [
+        "fence"
+      ]
+    },
+    {
+      "name": "file-check",
+      "file": "file-check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/file-check.svg",
+      "tags": [
+        "file",
+        "check"
+      ]
+    },
+    {
+      "name": "file-text",
+      "file": "file-text.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/file-text.svg",
+      "tags": [
+        "file",
+        "text"
+      ]
+    },
+    {
+      "name": "file-x",
+      "file": "file-x.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/file-x.svg",
+      "tags": [
+        "file",
+        "x"
+      ]
+    },
+    {
+      "name": "file",
+      "file": "file.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/file.svg",
+      "tags": [
+        "file"
+      ]
+    },
+    {
+      "name": "fingerprint",
+      "file": "fingerprint.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/fingerprint.svg",
+      "tags": [
+        "fingerprint"
+      ]
+    },
+    {
+      "name": "fire",
+      "file": "fire.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/fire.svg",
+      "tags": [
+        "fire"
+      ]
+    },
+    {
+      "name": "first-aid-kit",
+      "file": "first-aid-kit.png",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "png",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/first-aid-kit.png",
+      "tags": [
+        "first",
+        "aid",
+        "kit"
+      ]
+    },
+    {
+      "name": "first-aid",
+      "file": "first-aid.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/first-aid.svg",
+      "tags": [
+        "first",
+        "aid"
+      ]
+    },
+    {
+      "name": "fish",
+      "file": "fish.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/fish.svg",
+      "tags": [
+        "fish"
+      ]
+    },
+    {
+      "name": "flag",
+      "file": "flag.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/flag.svg",
+      "tags": [
+        "flag"
+      ]
+    },
+    {
+      "name": "folder-check",
+      "file": "folder-check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/folder-check.svg",
+      "tags": [
+        "folder",
+        "check"
+      ]
+    },
+    {
+      "name": "folder-open",
+      "file": "folder-open.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/folder-open.svg",
+      "tags": [
+        "folder",
+        "open"
+      ]
+    },
+    {
+      "name": "folder-x",
+      "file": "folder-x.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/folder-x.svg",
+      "tags": [
+        "folder",
+        "x"
+      ]
+    },
+    {
+      "name": "folder",
+      "file": "folder.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/folder.svg",
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "funnel",
+      "file": "funnel.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/funnel.svg",
+      "tags": [
+        "funnel"
+      ]
+    },
+    {
+      "name": "garage",
+      "file": "garage.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/garage.svg",
+      "tags": [
+        "garage"
+      ]
+    },
+    {
+      "name": "gate",
+      "file": "gate.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/gate.svg",
+      "tags": [
+        "gate"
+      ]
+    },
+    {
+      "name": "generator",
+      "file": "generator.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/generator.svg",
+      "tags": [
+        "generator"
+      ]
+    },
+    {
+      "name": "globe",
+      "file": "globe.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/globe.svg",
+      "tags": [
+        "globe"
+      ]
+    },
+    {
+      "name": "government-building",
+      "file": "government-building.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/government-building.svg",
+      "tags": [
+        "government",
+        "building"
+      ]
+    },
+    {
+      "name": "graduation-cap",
+      "file": "graduation-cap.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/graduation-cap.svg",
+      "tags": [
+        "graduation",
+        "cap"
+      ]
+    },
+    {
+      "name": "gym",
+      "file": "gym.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/gym.svg",
+      "tags": [
+        "gym"
+      ]
+    },
+    {
+      "name": "hammer",
+      "file": "hammer.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/hammer.svg",
+      "tags": [
+        "hammer"
+      ]
+    },
+    {
+      "name": "handshake",
+      "file": "handshake.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/handshake.svg",
+      "tags": [
+        "handshake"
+      ]
+    },
+    {
+      "name": "hard-hat",
+      "file": "hard-hat.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/hard-hat.svg",
+      "tags": [
+        "hard",
+        "hat"
+      ]
+    },
+    {
+      "name": "headset",
+      "file": "headset.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/headset.svg",
+      "tags": [
+        "headset"
+      ]
+    },
+    {
+      "name": "heart-pulse",
+      "file": "heart-pulse.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/heart-pulse.svg",
+      "tags": [
+        "heart",
+        "pulse"
+      ]
+    },
+    {
+      "name": "heart",
+      "file": "heart.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/heart.svg",
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "name": "history",
+      "file": "history.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/history.svg",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "name": "home",
+      "file": "home.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/home.svg",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "horse",
+      "file": "horse.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/horse.svg",
+      "tags": [
+        "horse"
+      ]
+    },
+    {
+      "name": "hospital",
+      "file": "hospital.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/hospital.svg",
+      "tags": [
+        "hospital"
+      ]
+    },
+    {
+      "name": "hotel",
+      "file": "hotel.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/hotel.svg",
+      "tags": [
+        "hotel"
+      ]
+    },
+    {
+      "name": "info",
+      "file": "info.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/info.svg",
+      "tags": [
+        "info"
+      ]
+    },
+    {
+      "name": "integration",
+      "file": "integration.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/integration.svg",
+      "tags": [
+        "integration"
+      ]
+    },
+    {
+      "name": "invoice",
+      "file": "invoice.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/invoice.svg",
+      "tags": [
+        "invoice"
+      ]
+    },
+    {
+      "name": "key",
+      "file": "key.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/key.svg",
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "name": "lamp",
+      "file": "lamp.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/lamp.svg",
+      "tags": [
+        "lamp"
+      ]
+    },
+    {
+      "name": "laptop",
+      "file": "laptop.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/laptop.svg",
+      "tags": [
+        "laptop"
+      ]
+    },
+    {
+      "name": "library",
+      "file": "library.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/library.svg",
+      "tags": [
+        "library"
+      ]
+    },
+    {
+      "name": "lightbulb",
+      "file": "lightbulb.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/lightbulb.svg",
+      "tags": [
+        "lightbulb"
+      ]
+    },
+    {
+      "name": "loading",
+      "file": "loading.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/loading.svg",
+      "tags": [
+        "loading"
+      ]
+    },
+    {
+      "name": "lock",
+      "file": "lock.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/lock.svg",
+      "tags": [
+        "lock"
+      ]
+    },
+    {
+      "name": "luggage",
+      "file": "luggage.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/luggage.svg",
+      "tags": [
+        "luggage"
+      ]
+    },
+    {
+      "name": "magic",
+      "file": "magic.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/magic.svg",
+      "tags": [
+        "magic"
+      ]
+    },
+    {
+      "name": "mail",
+      "file": "mail.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/mail.svg",
+      "tags": [
+        "mail"
+      ]
+    },
+    {
+      "name": "map-pin",
+      "file": "map-pin.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/map-pin.svg",
+      "tags": [
+        "map",
+        "pin"
+      ]
+    },
+    {
+      "name": "map",
+      "file": "map.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/map.svg",
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "name": "medal",
+      "file": "medal.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/medal.svg",
+      "tags": [
+        "medal"
+      ]
+    },
+    {
+      "name": "medical-cross",
+      "file": "medical-cross.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/medical-cross.svg",
+      "tags": [
+        "medical",
+        "cross"
+      ]
+    },
+    {
+      "name": "menu",
+      "file": "menu.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/menu.svg",
+      "tags": [
+        "menu"
+      ]
+    },
+    {
+      "name": "message-circle",
+      "file": "message-circle.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/message-circle.svg",
+      "tags": [
+        "message",
+        "circle"
+      ]
+    },
+    {
+      "name": "microwave",
+      "file": "microwave.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/microwave.svg",
+      "tags": [
+        "microwave"
+      ]
+    },
+    {
+      "name": "minus",
+      "file": "minus.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/minus.svg",
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "mobile",
+      "file": "mobile.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/mobile.svg",
+      "tags": [
+        "mobile"
+      ]
+    },
+    {
+      "name": "monitor",
+      "file": "monitor.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/monitor.svg",
+      "tags": [
+        "monitor"
+      ]
+    },
+    {
+      "name": "more-horizontal",
+      "file": "more-horizontal.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/more-horizontal.svg",
+      "tags": [
+        "more",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "more-vertical",
+      "file": "more-vertical.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/more-vertical.svg",
+      "tags": [
+        "more",
+        "vertical"
+      ]
+    },
+    {
+      "name": "navigation",
+      "file": "navigation.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/navigation.svg",
+      "tags": [
+        "navigation"
+      ]
+    },
+    {
+      "name": "office-building",
+      "file": "office-building.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/office-building.svg",
+      "tags": [
+        "office",
+        "building"
+      ]
+    },
+    {
+      "name": "open-book",
+      "file": "open-book.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/open-book.svg",
+      "tags": [
+        "open",
+        "book"
+      ]
+    },
+    {
+      "name": "oven",
+      "file": "oven.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/oven.svg",
+      "tags": [
+        "oven"
+      ]
+    },
+    {
+      "name": "package",
+      "file": "package.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/package.svg",
+      "tags": [
+        "package"
+      ]
+    },
+    {
+      "name": "paint-roller",
+      "file": "paint-roller.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/paint-roller.svg",
+      "tags": [
+        "paint",
+        "roller"
+      ]
+    },
+    {
+      "name": "parking",
+      "file": "parking.png",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "png",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/parking.png",
+      "tags": [
+        "parking"
+      ]
+    },
+    {
+      "name": "paw-print",
+      "file": "paw-print.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/paw-print.svg",
+      "tags": [
+        "paw",
+        "print"
+      ]
+    },
+    {
+      "name": "pending",
+      "file": "pending.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/pending.svg",
+      "tags": [
+        "pending"
+      ]
+    },
+    {
+      "name": "phone-call",
+      "file": "phone-call.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/phone-call.svg",
+      "tags": [
+        "phone",
+        "call"
+      ]
+    },
+    {
+      "name": "phone",
+      "file": "phone.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/phone.svg",
+      "tags": [
+        "phone"
+      ]
+    },
+    {
+      "name": "pill",
+      "file": "pill.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/pill.svg",
+      "tags": [
+        "pill"
+      ]
+    },
+    {
+      "name": "plane",
+      "file": "plane.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/plane.svg",
+      "tags": [
+        "plane"
+      ]
+    },
+    {
+      "name": "plug",
+      "file": "plug.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/plug.svg",
+      "tags": [
+        "plug"
+      ]
+    },
+    {
+      "name": "plus",
+      "file": "plus.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/plus.svg",
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "pool",
+      "file": "pool.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/pool.svg",
+      "tags": [
+        "pool"
+      ]
+    },
+    {
+      "name": "presentation",
+      "file": "presentation.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/presentation.svg",
+      "tags": [
+        "presentation"
+      ]
+    },
+    {
+      "name": "question",
+      "file": "question.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/question.svg",
+      "tags": [
+        "question"
+      ]
+    },
+    {
+      "name": "receipt",
+      "file": "receipt.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/receipt.svg",
+      "tags": [
+        "receipt"
+      ]
+    },
+    {
+      "name": "refresh",
+      "file": "refresh.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/refresh.svg",
+      "tags": [
+        "refresh"
+      ]
+    },
+    {
+      "name": "refrigerator",
+      "file": "refrigerator.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/refrigerator.svg",
+      "tags": [
+        "refrigerator"
+      ]
+    },
+    {
+      "name": "restaurant",
+      "file": "restaurant.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/restaurant.svg",
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "name": "robot",
+      "file": "robot.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/robot.svg",
+      "tags": [
+        "robot"
+      ]
+    },
+    {
+      "name": "roof",
+      "file": "roof.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/roof.svg",
+      "tags": [
+        "roof"
+      ]
+    },
+    {
+      "name": "room-service",
+      "file": "room-service.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/room-service.svg",
+      "tags": [
+        "room",
+        "service"
+      ]
+    },
+    {
+      "name": "route",
+      "file": "route.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/route.svg",
+      "tags": [
+        "route"
+      ]
+    },
+    {
+      "name": "router",
+      "file": "router.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/router.svg",
+      "tags": [
+        "router"
+      ]
+    },
+    {
+      "name": "ruler",
+      "file": "ruler.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/ruler.svg",
+      "tags": [
+        "ruler"
+      ]
+    },
+    {
+      "name": "running",
+      "file": "running.png",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "png",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/running.png",
+      "tags": [
+        "running"
+      ]
+    },
+    {
+      "name": "school",
+      "file": "school.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/school.svg",
+      "tags": [
+        "school"
+      ]
+    },
+    {
+      "name": "screwdriver",
+      "file": "screwdriver.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/screwdriver.svg",
+      "tags": [
+        "screwdriver"
+      ]
+    },
+    {
+      "name": "search",
+      "file": "search.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/search.svg",
+      "tags": [
+        "search"
+      ]
+    },
+    {
+      "name": "server",
+      "file": "server.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/server.svg",
+      "tags": [
+        "server"
+      ]
+    },
+    {
+      "name": "shield-check",
+      "file": "shield-check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/shield-check.svg",
+      "tags": [
+        "shield",
+        "check"
+      ]
+    },
+    {
+      "name": "shield-outline",
+      "file": "shield-outline.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/shield-outline.svg",
+      "tags": [
+        "shield",
+        "outline"
+      ]
+    },
+    {
+      "name": "shield",
+      "file": "shield.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/shield.svg",
+      "tags": [
+        "shield"
+      ]
+    },
+    {
+      "name": "sink",
+      "file": "sink.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/sink.svg",
+      "tags": [
+        "sink"
+      ]
+    },
+    {
+      "name": "sofa",
+      "file": "sofa.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/sofa.svg",
+      "tags": [
+        "sofa"
+      ]
+    },
+    {
+      "name": "solar-panel",
+      "file": "solar-panel.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/solar-panel.svg",
+      "tags": [
+        "solar",
+        "panel"
+      ]
+    },
+    {
+      "name": "sparkles",
+      "file": "sparkles.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/sparkles.svg",
+      "tags": [
+        "sparkles"
+      ]
+    },
+    {
+      "name": "stairs",
+      "file": "stairs.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/stairs.svg",
+      "tags": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "star",
+      "file": "star.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/star.svg",
+      "tags": [
+        "star"
+      ]
+    },
+    {
+      "name": "stethoscope",
+      "file": "stethoscope.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/stethoscope.svg",
+      "tags": [
+        "stethoscope"
+      ]
+    },
+    {
+      "name": "stopwatch",
+      "file": "stopwatch.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/stopwatch.svg",
+      "tags": [
+        "stopwatch"
+      ]
+    },
+    {
+      "name": "store",
+      "file": "store.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/store.svg",
+      "tags": [
+        "store"
+      ]
+    },
+    {
+      "name": "table",
+      "file": "table.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/table.svg",
+      "tags": [
+        "table"
+      ]
+    },
+    {
+      "name": "tablet",
+      "file": "tablet.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/tablet.svg",
+      "tags": [
+        "tablet"
+      ]
+    },
+    {
+      "name": "tag",
+      "file": "tag.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/tag.svg",
+      "tags": [
+        "tag"
+      ]
+    },
+    {
+      "name": "target",
+      "file": "target.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/target.svg",
+      "tags": [
+        "target"
+      ]
+    },
+    {
+      "name": "terminal",
+      "file": "terminal.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/terminal.svg",
+      "tags": [
+        "terminal"
+      ]
+    },
+    {
+      "name": "toilet",
+      "file": "toilet.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/toilet.svg",
+      "tags": [
+        "toilet"
+      ]
+    },
+    {
+      "name": "toolbox",
+      "file": "toolbox.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/toolbox.svg",
+      "tags": [
+        "toolbox"
+      ]
+    },
+    {
+      "name": "train",
+      "file": "train.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/train.svg",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "trash",
+      "file": "trash.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/trash.svg",
+      "tags": [
+        "trash"
+      ]
+    },
+    {
+      "name": "tree",
+      "file": "tree.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/tree.svg",
+      "tags": [
+        "tree"
+      ]
+    },
+    {
+      "name": "trophy",
+      "file": "trophy.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/trophy.svg",
+      "tags": [
+        "trophy"
+      ]
+    },
+    {
+      "name": "truck",
+      "file": "truck.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/truck.svg",
+      "tags": [
+        "truck"
+      ]
+    },
+    {
+      "name": "unlock",
+      "file": "unlock.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/unlock.svg",
+      "tags": [
+        "unlock"
+      ]
+    },
+    {
+      "name": "upload",
+      "file": "upload.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/upload.svg",
+      "tags": [
+        "upload"
+      ]
+    },
+    {
+      "name": "user-check",
+      "file": "user-check.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/user-check.svg",
+      "tags": [
+        "user",
+        "check"
+      ]
+    },
+    {
+      "name": "user-minus",
+      "file": "user-minus.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/user-minus.svg",
+      "tags": [
+        "user",
+        "minus"
+      ]
+    },
+    {
+      "name": "user-plus",
+      "file": "user-plus.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/user-plus.svg",
+      "tags": [
+        "user",
+        "plus"
+      ]
+    },
+    {
+      "name": "user-x",
+      "file": "user-x.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/user-x.svg",
+      "tags": [
+        "user",
+        "x"
+      ]
+    },
+    {
+      "name": "user",
+      "file": "user.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/user.svg",
+      "tags": [
+        "user"
+      ]
+    },
+    {
+      "name": "users",
+      "file": "users.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/users.svg",
+      "tags": [
+        "users"
+      ]
+    },
+    {
+      "name": "utensils",
+      "file": "utensils.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/utensils.svg",
+      "tags": [
+        "utensils"
+      ]
+    },
+    {
+      "name": "van",
+      "file": "van.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/van.svg",
+      "tags": [
+        "van"
+      ]
+    },
+    {
+      "name": "verified",
+      "file": "verified.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/verified.svg",
+      "tags": [
+        "verified"
+      ]
+    },
+    {
+      "name": "walking",
+      "file": "walking.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/walking.svg",
+      "tags": [
+        "walking"
+      ]
+    },
+    {
+      "name": "wallet",
+      "file": "wallet.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/wallet.svg",
+      "tags": [
+        "wallet"
+      ]
+    },
+    {
+      "name": "warehouse",
+      "file": "warehouse.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/warehouse.svg",
+      "tags": [
+        "warehouse"
+      ]
+    },
+    {
+      "name": "warning",
+      "file": "warning.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/warning.svg",
+      "tags": [
+        "warning"
+      ]
+    },
+    {
+      "name": "washer",
+      "file": "washer.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/washer.svg",
+      "tags": [
+        "washer"
+      ]
+    },
+    {
+      "name": "water-drop",
+      "file": "water-drop.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/water-drop.svg",
+      "tags": [
+        "water",
+        "drop"
+      ]
+    },
+    {
+      "name": "waves",
+      "file": "waves.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/waves.svg",
+      "tags": [
+        "waves"
+      ]
+    },
+    {
+      "name": "wifi",
+      "file": "wifi.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/wifi.svg",
+      "tags": [
+        "wifi"
+      ]
+    },
+    {
+      "name": "window",
+      "file": "window.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/window.svg",
+      "tags": [
+        "window"
+      ]
+    },
+    {
+      "name": "workflow",
+      "file": "workflow.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/workflow.svg",
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "name": "wrench",
+      "file": "wrench.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/wrench.svg",
+      "tags": [
+        "wrench"
+      ]
+    },
+    {
+      "name": "x",
+      "file": "x.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/x.svg",
+      "tags": [
+        "x"
+      ]
+    },
+    {
+      "name": "zap",
+      "file": "zap.svg",
+      "folder": "icon_library_outline",
+      "category": "outline",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/icon_library_outline/zap.svg",
+      "tags": [
+        "zap"
+      ]
+    },
+    {
+      "name": "apple-fill",
+      "file": "apple-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/apple-fill.svg",
+      "tags": [
+        "apple",
+        "fill"
+      ]
+    },
+    {
+      "name": "apple-outline",
+      "file": "apple-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/apple-outline.svg",
+      "tags": [
+        "apple",
+        "outline"
+      ]
+    },
+    {
+      "name": "facebook-fill",
+      "file": "facebook-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/facebook-fill.svg",
+      "tags": [
+        "facebook",
+        "fill"
+      ]
+    },
+    {
+      "name": "facebook-outline",
+      "file": "facebook-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/facebook-outline.svg",
+      "tags": [
+        "facebook",
+        "outline"
+      ]
+    },
+    {
+      "name": "google-fill",
+      "file": "google-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/google-fill.svg",
+      "tags": [
+        "google",
+        "fill"
+      ]
+    },
+    {
+      "name": "google-outline",
+      "file": "google-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/google-outline.svg",
+      "tags": [
+        "google",
+        "outline"
+      ]
+    },
+    {
+      "name": "instagram-fill",
+      "file": "instagram-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/instagram-fill.svg",
+      "tags": [
+        "instagram",
+        "fill"
+      ]
+    },
+    {
+      "name": "instagram-outline",
+      "file": "instagram-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/instagram-outline.svg",
+      "tags": [
+        "instagram",
+        "outline"
+      ]
+    },
+    {
+      "name": "linkedin-fill",
+      "file": "linkedin-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/linkedin-fill.svg",
+      "tags": [
+        "linkedin",
+        "fill"
+      ]
+    },
+    {
+      "name": "linkedin-outline",
+      "file": "linkedin-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/linkedin-outline.svg",
+      "tags": [
+        "linkedin",
+        "outline"
+      ]
+    },
+    {
+      "name": "openai",
+      "file": "openai.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/openai.svg",
+      "tags": [
+        "openai"
+      ]
+    },
+    {
+      "name": "slack-fill",
+      "file": "slack-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/slack-fill.svg",
+      "tags": [
+        "slack",
+        "fill"
+      ]
+    },
+    {
+      "name": "slack-outline",
+      "file": "slack-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/slack-outline.svg",
+      "tags": [
+        "slack",
+        "outline"
+      ]
+    },
+    {
+      "name": "spotify-fill",
+      "file": "spotify-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/spotify-fill.svg",
+      "tags": [
+        "spotify",
+        "fill"
+      ]
+    },
+    {
+      "name": "spotify-outline",
+      "file": "spotify-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/spotify-outline.svg",
+      "tags": [
+        "spotify",
+        "outline"
+      ]
+    },
+    {
+      "name": "telegram-fill",
+      "file": "telegram-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/telegram-fill.svg",
+      "tags": [
+        "telegram",
+        "fill"
+      ]
+    },
+    {
+      "name": "telegram-outline",
+      "file": "telegram-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/telegram-outline.svg",
+      "tags": [
+        "telegram",
+        "outline"
+      ]
+    },
+    {
+      "name": "tiktok-fill",
+      "file": "tiktok-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/tiktok-fill.svg",
+      "tags": [
+        "tiktok",
+        "fill"
+      ]
+    },
+    {
+      "name": "tiktok-outline",
+      "file": "tiktok-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/tiktok-outline.svg",
+      "tags": [
+        "tiktok",
+        "outline"
+      ]
+    },
+    {
+      "name": "website",
+      "file": "website.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/website.svg",
+      "tags": [
+        "website"
+      ]
+    },
+    {
+      "name": "whatsapp-fill",
+      "file": "whatsapp-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/whatsapp-fill.svg",
+      "tags": [
+        "whatsapp",
+        "fill"
+      ]
+    },
+    {
+      "name": "whatsapp-outline",
+      "file": "whatsapp-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/whatsapp-outline.svg",
+      "tags": [
+        "whatsapp",
+        "outline"
+      ]
+    },
+    {
+      "name": "x-twitter",
+      "file": "x-twitter.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/x-twitter.svg",
+      "tags": [
+        "x",
+        "twitter"
+      ]
+    },
+    {
+      "name": "youtube-fill",
+      "file": "youtube-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/youtube-fill.svg",
+      "tags": [
+        "youtube",
+        "fill"
+      ]
+    },
+    {
+      "name": "youtube-outline",
+      "file": "youtube-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/youtube-outline.svg",
+      "tags": [
+        "youtube",
+        "outline"
+      ]
+    }
+  ]
+}
