@@ -1,5 +1,6 @@
 {
   "scripts": {
-    "catalog": "node scripts/generate-icons-catalog.mjs"
+    "catalog": "node scripts/generate-icons-catalog.mjs",
+    "library": "node scripts/generate-icons-library-js.mjs"
   }
-}
+  }
