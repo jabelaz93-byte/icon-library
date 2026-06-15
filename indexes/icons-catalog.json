@@ -1,0 +1,3932 @@
+{
+  "name": "Icon Library",
+  "repository": "https://github.com/jabelaz93-byte/icon-library",
+  "cdnProvider": "jsDelivr",
+  "cdnRoot": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/",
+  "totalAssets": 316,
+  "folders": [
+    "big-icons",
+    "calendar-icons",
+    "core-icons",
+    "corps",
+    "socials"
+  ],
+  "generatedAt": "2026-06-15T20:49:35.388Z",
+  "icons": [
+    {
+      "name": "sun-large",
+      "label": "Sun Large",
+      "file": "sun-large.svg",
+      "folder": "big-icons",
+      "category": "large",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/big-icons/sun-large.svg",
+      "tags": [
+        "sun",
+        "large"
+      ]
+    },
+    {
+      "name": "calendar-1",
+      "label": "Calendar 1",
+      "file": "calendar-1.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-1.svg",
+      "tags": [
+        "calendar",
+        "1"
+      ]
+    },
+    {
+      "name": "calendar-10",
+      "label": "Calendar 10",
+      "file": "calendar-10.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-10.svg",
+      "tags": [
+        "calendar",
+        "10"
+      ]
+    },
+    {
+      "name": "calendar-11",
+      "label": "Calendar 11",
+      "file": "calendar-11.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-11.svg",
+      "tags": [
+        "calendar",
+        "11"
+      ]
+    },
+    {
+      "name": "calendar-12",
+      "label": "Calendar 12",
+      "file": "calendar-12.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-12.svg",
+      "tags": [
+        "calendar",
+        "12"
+      ]
+    },
+    {
+      "name": "calendar-14",
+      "label": "Calendar 14",
+      "file": "calendar-14.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-14.svg",
+      "tags": [
+        "calendar",
+        "14"
+      ]
+    },
+    {
+      "name": "calendar-15",
+      "label": "Calendar 15",
+      "file": "calendar-15.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-15.svg",
+      "tags": [
+        "calendar",
+        "15"
+      ]
+    },
+    {
+      "name": "calendar-16",
+      "label": "Calendar 16",
+      "file": "calendar-16.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-16.svg",
+      "tags": [
+        "calendar",
+        "16"
+      ]
+    },
+    {
+      "name": "calendar-17",
+      "label": "Calendar 17",
+      "file": "calendar-17.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-17.svg",
+      "tags": [
+        "calendar",
+        "17"
+      ]
+    },
+    {
+      "name": "calendar-18",
+      "label": "Calendar 18",
+      "file": "calendar-18.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-18.svg",
+      "tags": [
+        "calendar",
+        "18"
+      ]
+    },
+    {
+      "name": "calendar-19",
+      "label": "Calendar 19",
+      "file": "calendar-19.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-19.svg",
+      "tags": [
+        "calendar",
+        "19"
+      ]
+    },
+    {
+      "name": "calendar-2",
+      "label": "Calendar 2",
+      "file": "calendar-2.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-2.svg",
+      "tags": [
+        "calendar",
+        "2"
+      ]
+    },
+    {
+      "name": "calendar-20",
+      "label": "Calendar 20",
+      "file": "calendar-20.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-20.svg",
+      "tags": [
+        "calendar",
+        "20"
+      ]
+    },
+    {
+      "name": "calendar-21",
+      "label": "Calendar 21",
+      "file": "calendar-21.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-21.svg",
+      "tags": [
+        "calendar",
+        "21"
+      ]
+    },
+    {
+      "name": "calendar-22",
+      "label": "Calendar 22",
+      "file": "calendar-22.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-22.svg",
+      "tags": [
+        "calendar",
+        "22"
+      ]
+    },
+    {
+      "name": "calendar-23",
+      "label": "Calendar 23",
+      "file": "calendar-23.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-23.svg",
+      "tags": [
+        "calendar",
+        "23"
+      ]
+    },
+    {
+      "name": "calendar-24",
+      "label": "Calendar 24",
+      "file": "calendar-24.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-24.svg",
+      "tags": [
+        "calendar",
+        "24"
+      ]
+    },
+    {
+      "name": "calendar-25",
+      "label": "Calendar 25",
+      "file": "calendar-25.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-25.svg",
+      "tags": [
+        "calendar",
+        "25"
+      ]
+    },
+    {
+      "name": "calendar-26",
+      "label": "Calendar 26",
+      "file": "calendar-26.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-26.svg",
+      "tags": [
+        "calendar",
+        "26"
+      ]
+    },
+    {
+      "name": "calendar-27",
+      "label": "Calendar 27",
+      "file": "calendar-27.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-27.svg",
+      "tags": [
+        "calendar",
+        "27"
+      ]
+    },
+    {
+      "name": "calendar-28",
+      "label": "Calendar 28",
+      "file": "calendar-28.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-28.svg",
+      "tags": [
+        "calendar",
+        "28"
+      ]
+    },
+    {
+      "name": "calendar-29",
+      "label": "Calendar 29",
+      "file": "calendar-29.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-29.svg",
+      "tags": [
+        "calendar",
+        "29"
+      ]
+    },
+    {
+      "name": "calendar-3",
+      "label": "Calendar 3",
+      "file": "calendar-3.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-3.svg",
+      "tags": [
+        "calendar",
+        "3"
+      ]
+    },
+    {
+      "name": "calendar-30",
+      "label": "Calendar 30",
+      "file": "calendar-30.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-30.svg",
+      "tags": [
+        "calendar",
+        "30"
+      ]
+    },
+    {
+      "name": "calendar-31",
+      "label": "Calendar 31",
+      "file": "calendar-31.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-31.svg",
+      "tags": [
+        "calendar",
+        "31"
+      ]
+    },
+    {
+      "name": "calendar-4",
+      "label": "Calendar 4",
+      "file": "calendar-4.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-4.svg",
+      "tags": [
+        "calendar",
+        "4"
+      ]
+    },
+    {
+      "name": "calendar-5",
+      "label": "Calendar 5",
+      "file": "calendar-5.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-5.svg",
+      "tags": [
+        "calendar",
+        "5"
+      ]
+    },
+    {
+      "name": "calendar-6",
+      "label": "Calendar 6",
+      "file": "calendar-6.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-6.svg",
+      "tags": [
+        "calendar",
+        "6"
+      ]
+    },
+    {
+      "name": "calendar-7",
+      "label": "Calendar 7",
+      "file": "calendar-7.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-7.svg",
+      "tags": [
+        "calendar",
+        "7"
+      ]
+    },
+    {
+      "name": "calendar-8",
+      "label": "Calendar 8",
+      "file": "calendar-8.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-8.svg",
+      "tags": [
+        "calendar",
+        "8"
+      ]
+    },
+    {
+      "name": "calendar-9",
+      "label": "Calendar 9",
+      "file": "calendar-9.svg",
+      "folder": "calendar-icons",
+      "category": "calendar",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/calendar-icons/calendar-9.svg",
+      "tags": [
+        "calendar",
+        "9"
+      ]
+    },
+    {
+      "name": "accessibility",
+      "label": "Accessibility",
+      "file": "accessibility.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/accessibility.svg",
+      "tags": [
+        "accessibility"
+      ]
+    },
+    {
+      "name": "ambulance",
+      "label": "Ambulance",
+      "file": "ambulance.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/ambulance.svg",
+      "tags": [
+        "ambulance"
+      ]
+    },
+    {
+      "name": "arrow-down",
+      "label": "Arrow Down",
+      "file": "arrow-down.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/arrow-down.svg",
+      "tags": [
+        "arrow",
+        "down"
+      ]
+    },
+    {
+      "name": "arrow-left-thick",
+      "label": "Arrow Left Thick",
+      "file": "arrow-left-thick.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/arrow-left-thick.svg",
+      "tags": [
+        "arrow",
+        "left",
+        "thick"
+      ]
+    },
+    {
+      "name": "arrow-left",
+      "label": "Arrow Left",
+      "file": "arrow-left.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/arrow-left.svg",
+      "tags": [
+        "arrow",
+        "left"
+      ]
+    },
+    {
+      "name": "arrow-right-thick",
+      "label": "Arrow Right Thick",
+      "file": "arrow-right-thick.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/arrow-right-thick.svg",
+      "tags": [
+        "arrow",
+        "right",
+        "thick"
+      ]
+    },
+    {
+      "name": "arrow-right",
+      "label": "Arrow Right",
+      "file": "arrow-right.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/arrow-right.svg",
+      "tags": [
+        "arrow",
+        "right"
+      ]
+    },
+    {
+      "name": "arrow-up",
+      "label": "Arrow Up",
+      "file": "arrow-up.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/arrow-up.svg",
+      "tags": [
+        "arrow",
+        "up"
+      ]
+    },
+    {
+      "name": "automation",
+      "label": "Automation",
+      "file": "automation.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/automation.svg",
+      "tags": [
+        "automation"
+      ]
+    },
+    {
+      "name": "award-badge",
+      "label": "Award Badge",
+      "file": "award-badge.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/award-badge.svg",
+      "tags": [
+        "award",
+        "badge"
+      ]
+    },
+    {
+      "name": "bag",
+      "label": "Bag",
+      "file": "bag.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bag.svg",
+      "tags": [
+        "bag"
+      ]
+    },
+    {
+      "name": "bathtub",
+      "label": "Bathtub",
+      "file": "bathtub.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bathtub.svg",
+      "tags": [
+        "bathtub"
+      ]
+    },
+    {
+      "name": "battery",
+      "label": "Battery",
+      "file": "battery.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/battery.svg",
+      "tags": [
+        "battery"
+      ]
+    },
+    {
+      "name": "bed",
+      "label": "Bed",
+      "file": "bed.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bed.svg",
+      "tags": [
+        "bed"
+      ]
+    },
+    {
+      "name": "bell-off",
+      "label": "Bell Off",
+      "file": "bell-off.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bell-off.svg",
+      "tags": [
+        "bell",
+        "off"
+      ]
+    },
+    {
+      "name": "bell",
+      "label": "Bell",
+      "file": "bell.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bell.svg",
+      "tags": [
+        "bell"
+      ]
+    },
+    {
+      "name": "bicycle",
+      "label": "Bicycle",
+      "file": "bicycle.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bicycle.svg",
+      "tags": [
+        "bicycle"
+      ]
+    },
+    {
+      "name": "bird",
+      "label": "Bird",
+      "file": "bird.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bird.svg",
+      "tags": [
+        "bird"
+      ]
+    },
+    {
+      "name": "blueprint",
+      "label": "Blueprint",
+      "file": "blueprint.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/blueprint.svg",
+      "tags": [
+        "blueprint"
+      ]
+    },
+    {
+      "name": "boat",
+      "label": "Boat",
+      "file": "boat.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/boat.svg",
+      "tags": [
+        "boat"
+      ]
+    },
+    {
+      "name": "book",
+      "label": "Book",
+      "file": "book.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/book.svg",
+      "tags": [
+        "book"
+      ]
+    },
+    {
+      "name": "bookmark",
+      "label": "Bookmark",
+      "file": "bookmark.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bookmark.svg",
+      "tags": [
+        "bookmark"
+      ]
+    },
+    {
+      "name": "bot",
+      "label": "Bot",
+      "file": "bot.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bot.svg",
+      "tags": [
+        "bot"
+      ]
+    },
+    {
+      "name": "brain",
+      "label": "Brain",
+      "file": "brain.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/brain.svg",
+      "tags": [
+        "brain"
+      ]
+    },
+    {
+      "name": "briefcase-check",
+      "label": "Briefcase Check",
+      "file": "briefcase-check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/briefcase-check.svg",
+      "tags": [
+        "briefcase",
+        "check"
+      ]
+    },
+    {
+      "name": "briefcase",
+      "label": "Briefcase",
+      "file": "briefcase.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/briefcase.svg",
+      "tags": [
+        "briefcase"
+      ]
+    },
+    {
+      "name": "building",
+      "label": "Building",
+      "file": "building.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/building.svg",
+      "tags": [
+        "building"
+      ]
+    },
+    {
+      "name": "bus",
+      "label": "Bus",
+      "file": "bus.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/bus.svg",
+      "tags": [
+        "bus"
+      ]
+    },
+    {
+      "name": "calendar-check",
+      "label": "Calendar Check",
+      "file": "calendar-check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/calendar-check.svg",
+      "tags": [
+        "calendar",
+        "check"
+      ]
+    },
+    {
+      "name": "calendar",
+      "label": "Calendar",
+      "file": "calendar.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/calendar.svg",
+      "tags": [
+        "calendar"
+      ]
+    },
+    {
+      "name": "car",
+      "label": "Car",
+      "file": "car.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/car.svg",
+      "tags": [
+        "car"
+      ]
+    },
+    {
+      "name": "cart-check",
+      "label": "Cart Check",
+      "file": "cart-check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/cart-check.svg",
+      "tags": [
+        "cart",
+        "check"
+      ]
+    },
+    {
+      "name": "cart",
+      "label": "Cart",
+      "file": "cart.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/cart.svg",
+      "tags": [
+        "cart"
+      ]
+    },
+    {
+      "name": "cat",
+      "label": "Cat",
+      "file": "cat.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/cat.svg",
+      "tags": [
+        "cat"
+      ]
+    },
+    {
+      "name": "chair",
+      "label": "Chair",
+      "file": "chair.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chair.svg",
+      "tags": [
+        "chair"
+      ]
+    },
+    {
+      "name": "chart-bar",
+      "label": "Chart Bar",
+      "file": "chart-bar.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chart-bar.svg",
+      "tags": [
+        "chart",
+        "bar"
+      ]
+    },
+    {
+      "name": "chart-line-up",
+      "label": "Chart Line Up",
+      "file": "chart-line-up.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chart-line-up.svg",
+      "tags": [
+        "chart",
+        "line",
+        "up"
+      ]
+    },
+    {
+      "name": "chart-line",
+      "label": "Chart Line",
+      "file": "chart-line.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chart-line.svg",
+      "tags": [
+        "chart",
+        "line"
+      ]
+    },
+    {
+      "name": "chart-pie",
+      "label": "Chart Pie",
+      "file": "chart-pie.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chart-pie.svg",
+      "tags": [
+        "chart",
+        "pie"
+      ]
+    },
+    {
+      "name": "chat",
+      "label": "Chat",
+      "file": "chat.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chat.svg",
+      "tags": [
+        "chat"
+      ]
+    },
+    {
+      "name": "check-circle",
+      "label": "Check Circle",
+      "file": "check-circle.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/check-circle.svg",
+      "tags": [
+        "check",
+        "circle"
+      ]
+    },
+    {
+      "name": "check-square",
+      "label": "Check Square",
+      "file": "check-square.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/check-square.svg",
+      "tags": [
+        "check",
+        "square"
+      ]
+    },
+    {
+      "name": "check",
+      "label": "Check",
+      "file": "check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/check.svg",
+      "tags": [
+        "check"
+      ]
+    },
+    {
+      "name": "chef-hat",
+      "label": "Chef Hat",
+      "file": "chef-hat.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chef-hat.svg",
+      "tags": [
+        "chef",
+        "hat"
+      ]
+    },
+    {
+      "name": "chevron-down",
+      "label": "Chevron Down",
+      "file": "chevron-down.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chevron-down.svg",
+      "tags": [
+        "chevron",
+        "down"
+      ]
+    },
+    {
+      "name": "chevron-left",
+      "label": "Chevron Left",
+      "file": "chevron-left.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chevron-left.svg",
+      "tags": [
+        "chevron",
+        "left"
+      ]
+    },
+    {
+      "name": "chevron-right",
+      "label": "Chevron Right",
+      "file": "chevron-right.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chevron-right.svg",
+      "tags": [
+        "chevron",
+        "right"
+      ]
+    },
+    {
+      "name": "chevron-up",
+      "label": "Chevron Up",
+      "file": "chevron-up.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/chevron-up.svg",
+      "tags": [
+        "chevron",
+        "up"
+      ]
+    },
+    {
+      "name": "circle",
+      "label": "Circle",
+      "file": "circle.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/circle.svg",
+      "tags": [
+        "circle"
+      ]
+    },
+    {
+      "name": "clipboard",
+      "label": "Clipboard",
+      "file": "clipboard.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/clipboard.svg",
+      "tags": [
+        "clipboard"
+      ]
+    },
+    {
+      "name": "clock",
+      "label": "Clock",
+      "file": "clock.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/clock.svg",
+      "tags": [
+        "clock"
+      ]
+    },
+    {
+      "name": "close",
+      "label": "Close",
+      "file": "close.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/close.svg",
+      "tags": [
+        "close"
+      ]
+    },
+    {
+      "name": "cloud",
+      "label": "Cloud",
+      "file": "cloud.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/cloud.svg",
+      "tags": [
+        "cloud"
+      ]
+    },
+    {
+      "name": "code",
+      "label": "Code",
+      "file": "code.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/code.svg",
+      "tags": [
+        "code"
+      ]
+    },
+    {
+      "name": "coffee",
+      "label": "Coffee",
+      "file": "coffee.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/coffee.svg",
+      "tags": [
+        "coffee"
+      ]
+    },
+    {
+      "name": "compass",
+      "label": "Compass",
+      "file": "compass.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/compass.svg",
+      "tags": [
+        "compass"
+      ]
+    },
+    {
+      "name": "computer",
+      "label": "Computer",
+      "file": "computer.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/computer.svg",
+      "tags": [
+        "computer"
+      ]
+    },
+    {
+      "name": "copy",
+      "label": "Copy",
+      "file": "copy.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/copy.svg",
+      "tags": [
+        "copy"
+      ]
+    },
+    {
+      "name": "credit-card",
+      "label": "Credit Card",
+      "file": "credit-card.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/credit-card.svg",
+      "tags": [
+        "credit",
+        "card"
+      ]
+    },
+    {
+      "name": "database",
+      "label": "Database",
+      "file": "database.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/database.svg",
+      "tags": [
+        "database"
+      ]
+    },
+    {
+      "name": "desk",
+      "label": "Desk",
+      "file": "desk.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/desk.svg",
+      "tags": [
+        "desk"
+      ]
+    },
+    {
+      "name": "diamond",
+      "label": "Diamond",
+      "file": "diamond.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/diamond.svg",
+      "tags": [
+        "diamond"
+      ]
+    },
+    {
+      "name": "dishwasher",
+      "label": "Dishwasher",
+      "file": "dishwasher.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/dishwasher.svg",
+      "tags": [
+        "dishwasher"
+      ]
+    },
+    {
+      "name": "document",
+      "label": "Document",
+      "file": "document.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/document.svg",
+      "tags": [
+        "document"
+      ]
+    },
+    {
+      "name": "dog",
+      "label": "Dog",
+      "file": "dog.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/dog.svg",
+      "tags": [
+        "dog"
+      ]
+    },
+    {
+      "name": "door",
+      "label": "Door",
+      "file": "door.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/door.svg",
+      "tags": [
+        "door"
+      ]
+    },
+    {
+      "name": "download",
+      "label": "Download",
+      "file": "download.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/download.svg",
+      "tags": [
+        "download"
+      ]
+    },
+    {
+      "name": "drill",
+      "label": "Drill",
+      "file": "drill.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/drill.svg",
+      "tags": [
+        "drill"
+      ]
+    },
+    {
+      "name": "dryer",
+      "label": "Dryer",
+      "file": "dryer.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/dryer.svg",
+      "tags": [
+        "dryer"
+      ]
+    },
+    {
+      "name": "dumbbell",
+      "label": "Dumbbell",
+      "file": "dumbbell.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/dumbbell.svg",
+      "tags": [
+        "dumbbell"
+      ]
+    },
+    {
+      "name": "edit",
+      "label": "Edit",
+      "file": "edit.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/edit.svg",
+      "tags": [
+        "edit"
+      ]
+    },
+    {
+      "name": "elevator",
+      "label": "Elevator",
+      "file": "elevator.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/elevator.svg",
+      "tags": [
+        "elevator"
+      ]
+    },
+    {
+      "name": "fence",
+      "label": "Fence",
+      "file": "fence.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/fence.svg",
+      "tags": [
+        "fence"
+      ]
+    },
+    {
+      "name": "file-check",
+      "label": "File Check",
+      "file": "file-check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/file-check.svg",
+      "tags": [
+        "file",
+        "check"
+      ]
+    },
+    {
+      "name": "file-text",
+      "label": "File Text",
+      "file": "file-text.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/file-text.svg",
+      "tags": [
+        "file",
+        "text"
+      ]
+    },
+    {
+      "name": "file-x",
+      "label": "File X",
+      "file": "file-x.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/file-x.svg",
+      "tags": [
+        "file",
+        "x"
+      ]
+    },
+    {
+      "name": "file",
+      "label": "File",
+      "file": "file.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/file.svg",
+      "tags": [
+        "file"
+      ]
+    },
+    {
+      "name": "fingerprint",
+      "label": "Fingerprint",
+      "file": "fingerprint.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/fingerprint.svg",
+      "tags": [
+        "fingerprint"
+      ]
+    },
+    {
+      "name": "fire",
+      "label": "Fire",
+      "file": "fire.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/fire.svg",
+      "tags": [
+        "fire"
+      ]
+    },
+    {
+      "name": "first-aid",
+      "label": "First Aid",
+      "file": "first-aid.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/first-aid.svg",
+      "tags": [
+        "first",
+        "aid"
+      ]
+    },
+    {
+      "name": "fish",
+      "label": "Fish",
+      "file": "fish.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/fish.svg",
+      "tags": [
+        "fish"
+      ]
+    },
+    {
+      "name": "flag",
+      "label": "Flag",
+      "file": "flag.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/flag.svg",
+      "tags": [
+        "flag"
+      ]
+    },
+    {
+      "name": "folder-check",
+      "label": "Folder Check",
+      "file": "folder-check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/folder-check.svg",
+      "tags": [
+        "folder",
+        "check"
+      ]
+    },
+    {
+      "name": "folder-open",
+      "label": "Folder Open",
+      "file": "folder-open.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/folder-open.svg",
+      "tags": [
+        "folder",
+        "open"
+      ]
+    },
+    {
+      "name": "folder-x",
+      "label": "Folder X",
+      "file": "folder-x.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/folder-x.svg",
+      "tags": [
+        "folder",
+        "x"
+      ]
+    },
+    {
+      "name": "folder",
+      "label": "Folder",
+      "file": "folder.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/folder.svg",
+      "tags": [
+        "folder"
+      ]
+    },
+    {
+      "name": "funnel",
+      "label": "Funnel",
+      "file": "funnel.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/funnel.svg",
+      "tags": [
+        "funnel"
+      ]
+    },
+    {
+      "name": "garage",
+      "label": "Garage",
+      "file": "garage.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/garage.svg",
+      "tags": [
+        "garage"
+      ]
+    },
+    {
+      "name": "gate",
+      "label": "Gate",
+      "file": "gate.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/gate.svg",
+      "tags": [
+        "gate"
+      ]
+    },
+    {
+      "name": "generator",
+      "label": "Generator",
+      "file": "generator.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/generator.svg",
+      "tags": [
+        "generator"
+      ]
+    },
+    {
+      "name": "globe",
+      "label": "Globe",
+      "file": "globe.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/globe.svg",
+      "tags": [
+        "globe"
+      ]
+    },
+    {
+      "name": "government-building",
+      "label": "Government Building",
+      "file": "government-building.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/government-building.svg",
+      "tags": [
+        "government",
+        "building"
+      ]
+    },
+    {
+      "name": "graduation-cap",
+      "label": "Graduation Cap",
+      "file": "graduation-cap.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/graduation-cap.svg",
+      "tags": [
+        "graduation",
+        "cap"
+      ]
+    },
+    {
+      "name": "gym",
+      "label": "Gym",
+      "file": "gym.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/gym.svg",
+      "tags": [
+        "gym"
+      ]
+    },
+    {
+      "name": "hammer",
+      "label": "Hammer",
+      "file": "hammer.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/hammer.svg",
+      "tags": [
+        "hammer"
+      ]
+    },
+    {
+      "name": "handshake",
+      "label": "Handshake",
+      "file": "handshake.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/handshake.svg",
+      "tags": [
+        "handshake"
+      ]
+    },
+    {
+      "name": "hard-hat",
+      "label": "Hard Hat",
+      "file": "hard-hat.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/hard-hat.svg",
+      "tags": [
+        "hard",
+        "hat"
+      ]
+    },
+    {
+      "name": "headset",
+      "label": "Headset",
+      "file": "headset.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/headset.svg",
+      "tags": [
+        "headset"
+      ]
+    },
+    {
+      "name": "heart-pulse",
+      "label": "Heart Pulse",
+      "file": "heart-pulse.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/heart-pulse.svg",
+      "tags": [
+        "heart",
+        "pulse"
+      ]
+    },
+    {
+      "name": "heart",
+      "label": "Heart",
+      "file": "heart.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/heart.svg",
+      "tags": [
+        "heart"
+      ]
+    },
+    {
+      "name": "history",
+      "label": "History",
+      "file": "history.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/history.svg",
+      "tags": [
+        "history"
+      ]
+    },
+    {
+      "name": "home",
+      "label": "Home",
+      "file": "home.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/home.svg",
+      "tags": [
+        "home"
+      ]
+    },
+    {
+      "name": "horse",
+      "label": "Horse",
+      "file": "horse.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/horse.svg",
+      "tags": [
+        "horse"
+      ]
+    },
+    {
+      "name": "hospital",
+      "label": "Hospital",
+      "file": "hospital.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/hospital.svg",
+      "tags": [
+        "hospital"
+      ]
+    },
+    {
+      "name": "hotel",
+      "label": "Hotel",
+      "file": "hotel.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/hotel.svg",
+      "tags": [
+        "hotel"
+      ]
+    },
+    {
+      "name": "info",
+      "label": "Info",
+      "file": "info.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/info.svg",
+      "tags": [
+        "info"
+      ]
+    },
+    {
+      "name": "integration",
+      "label": "Integration",
+      "file": "integration.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/integration.svg",
+      "tags": [
+        "integration"
+      ]
+    },
+    {
+      "name": "invoice",
+      "label": "Invoice",
+      "file": "invoice.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/invoice.svg",
+      "tags": [
+        "invoice"
+      ]
+    },
+    {
+      "name": "key",
+      "label": "Key",
+      "file": "key.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/key.svg",
+      "tags": [
+        "key"
+      ]
+    },
+    {
+      "name": "lamp",
+      "label": "Lamp",
+      "file": "lamp.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/lamp.svg",
+      "tags": [
+        "lamp"
+      ]
+    },
+    {
+      "name": "laptop",
+      "label": "Laptop",
+      "file": "laptop.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/laptop.svg",
+      "tags": [
+        "laptop"
+      ]
+    },
+    {
+      "name": "library",
+      "label": "Library",
+      "file": "library.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/library.svg",
+      "tags": [
+        "library"
+      ]
+    },
+    {
+      "name": "lightbulb",
+      "label": "Lightbulb",
+      "file": "lightbulb.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/lightbulb.svg",
+      "tags": [
+        "lightbulb"
+      ]
+    },
+    {
+      "name": "loading",
+      "label": "Loading",
+      "file": "loading.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/loading.svg",
+      "tags": [
+        "loading"
+      ]
+    },
+    {
+      "name": "lock",
+      "label": "Lock",
+      "file": "lock.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/lock.svg",
+      "tags": [
+        "lock"
+      ]
+    },
+    {
+      "name": "luggage",
+      "label": "Luggage",
+      "file": "luggage.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/luggage.svg",
+      "tags": [
+        "luggage"
+      ]
+    },
+    {
+      "name": "magic",
+      "label": "Magic",
+      "file": "magic.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/magic.svg",
+      "tags": [
+        "magic"
+      ]
+    },
+    {
+      "name": "mail",
+      "label": "Mail",
+      "file": "mail.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/mail.svg",
+      "tags": [
+        "mail"
+      ]
+    },
+    {
+      "name": "map-pin",
+      "label": "Map Pin",
+      "file": "map-pin.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/map-pin.svg",
+      "tags": [
+        "map",
+        "pin"
+      ]
+    },
+    {
+      "name": "map",
+      "label": "Map",
+      "file": "map.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/map.svg",
+      "tags": [
+        "map"
+      ]
+    },
+    {
+      "name": "medal",
+      "label": "Medal",
+      "file": "medal.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/medal.svg",
+      "tags": [
+        "medal"
+      ]
+    },
+    {
+      "name": "medical-cross",
+      "label": "Medical Cross",
+      "file": "medical-cross.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/medical-cross.svg",
+      "tags": [
+        "medical",
+        "cross"
+      ]
+    },
+    {
+      "name": "menu",
+      "label": "Menu",
+      "file": "menu.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/menu.svg",
+      "tags": [
+        "menu"
+      ]
+    },
+    {
+      "name": "message-circle",
+      "label": "Message Circle",
+      "file": "message-circle.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/message-circle.svg",
+      "tags": [
+        "message",
+        "circle"
+      ]
+    },
+    {
+      "name": "microwave",
+      "label": "Microwave",
+      "file": "microwave.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/microwave.svg",
+      "tags": [
+        "microwave"
+      ]
+    },
+    {
+      "name": "minus",
+      "label": "Minus",
+      "file": "minus.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/minus.svg",
+      "tags": [
+        "minus"
+      ]
+    },
+    {
+      "name": "mobile",
+      "label": "Mobile",
+      "file": "mobile.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/mobile.svg",
+      "tags": [
+        "mobile"
+      ]
+    },
+    {
+      "name": "monitor",
+      "label": "Monitor",
+      "file": "monitor.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/monitor.svg",
+      "tags": [
+        "monitor"
+      ]
+    },
+    {
+      "name": "more-horizontal",
+      "label": "More Horizontal",
+      "file": "more-horizontal.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/more-horizontal.svg",
+      "tags": [
+        "more",
+        "horizontal"
+      ]
+    },
+    {
+      "name": "more-vertical",
+      "label": "More Vertical",
+      "file": "more-vertical.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/more-vertical.svg",
+      "tags": [
+        "more",
+        "vertical"
+      ]
+    },
+    {
+      "name": "navigation",
+      "label": "Navigation",
+      "file": "navigation.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/navigation.svg",
+      "tags": [
+        "navigation"
+      ]
+    },
+    {
+      "name": "office-building",
+      "label": "Office Building",
+      "file": "office-building.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/office-building.svg",
+      "tags": [
+        "office",
+        "building"
+      ]
+    },
+    {
+      "name": "open-book",
+      "label": "Open Book",
+      "file": "open-book.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/open-book.svg",
+      "tags": [
+        "open",
+        "book"
+      ]
+    },
+    {
+      "name": "oven",
+      "label": "Oven",
+      "file": "oven.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/oven.svg",
+      "tags": [
+        "oven"
+      ]
+    },
+    {
+      "name": "package",
+      "label": "Package",
+      "file": "package.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/package.svg",
+      "tags": [
+        "package"
+      ]
+    },
+    {
+      "name": "paint-roller",
+      "label": "Paint Roller",
+      "file": "paint-roller.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/paint-roller.svg",
+      "tags": [
+        "paint",
+        "roller"
+      ]
+    },
+    {
+      "name": "parking",
+      "label": "Parking",
+      "file": "parking.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/parking.svg",
+      "tags": [
+        "parking"
+      ]
+    },
+    {
+      "name": "paw-print",
+      "label": "Paw Print",
+      "file": "paw-print.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/paw-print.svg",
+      "tags": [
+        "paw",
+        "print"
+      ]
+    },
+    {
+      "name": "pending",
+      "label": "Pending",
+      "file": "pending.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/pending.svg",
+      "tags": [
+        "pending"
+      ]
+    },
+    {
+      "name": "phone-call",
+      "label": "Phone Call",
+      "file": "phone-call.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/phone-call.svg",
+      "tags": [
+        "phone",
+        "call"
+      ]
+    },
+    {
+      "name": "phone",
+      "label": "Phone",
+      "file": "phone.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/phone.svg",
+      "tags": [
+        "phone"
+      ]
+    },
+    {
+      "name": "pill",
+      "label": "Pill",
+      "file": "pill.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/pill.svg",
+      "tags": [
+        "pill"
+      ]
+    },
+    {
+      "name": "plane",
+      "label": "Plane",
+      "file": "plane.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/plane.svg",
+      "tags": [
+        "plane"
+      ]
+    },
+    {
+      "name": "plug",
+      "label": "Plug",
+      "file": "plug.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/plug.svg",
+      "tags": [
+        "plug"
+      ]
+    },
+    {
+      "name": "plus",
+      "label": "Plus",
+      "file": "plus.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/plus.svg",
+      "tags": [
+        "plus"
+      ]
+    },
+    {
+      "name": "pool",
+      "label": "Pool",
+      "file": "pool.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/pool.svg",
+      "tags": [
+        "pool"
+      ]
+    },
+    {
+      "name": "presentation",
+      "label": "Presentation",
+      "file": "presentation.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/presentation.svg",
+      "tags": [
+        "presentation"
+      ]
+    },
+    {
+      "name": "question",
+      "label": "Question",
+      "file": "question.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/question.svg",
+      "tags": [
+        "question"
+      ]
+    },
+    {
+      "name": "receipt",
+      "label": "Receipt",
+      "file": "receipt.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/receipt.svg",
+      "tags": [
+        "receipt"
+      ]
+    },
+    {
+      "name": "refresh",
+      "label": "Refresh",
+      "file": "refresh.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/refresh.svg",
+      "tags": [
+        "refresh"
+      ]
+    },
+    {
+      "name": "refrigerator",
+      "label": "Refrigerator",
+      "file": "refrigerator.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/refrigerator.svg",
+      "tags": [
+        "refrigerator"
+      ]
+    },
+    {
+      "name": "restaurant",
+      "label": "Restaurant",
+      "file": "restaurant.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/restaurant.svg",
+      "tags": [
+        "restaurant"
+      ]
+    },
+    {
+      "name": "robot",
+      "label": "Robot",
+      "file": "robot.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/robot.svg",
+      "tags": [
+        "robot"
+      ]
+    },
+    {
+      "name": "roof",
+      "label": "Roof",
+      "file": "roof.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/roof.svg",
+      "tags": [
+        "roof"
+      ]
+    },
+    {
+      "name": "room-service",
+      "label": "Room Service",
+      "file": "room-service.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/room-service.svg",
+      "tags": [
+        "room",
+        "service"
+      ]
+    },
+    {
+      "name": "route",
+      "label": "Route",
+      "file": "route.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/route.svg",
+      "tags": [
+        "route"
+      ]
+    },
+    {
+      "name": "router",
+      "label": "Router",
+      "file": "router.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/router.svg",
+      "tags": [
+        "router"
+      ]
+    },
+    {
+      "name": "ruler",
+      "label": "Ruler",
+      "file": "ruler.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/ruler.svg",
+      "tags": [
+        "ruler"
+      ]
+    },
+    {
+      "name": "school",
+      "label": "School",
+      "file": "school.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/school.svg",
+      "tags": [
+        "school"
+      ]
+    },
+    {
+      "name": "screwdriver",
+      "label": "Screwdriver",
+      "file": "screwdriver.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/screwdriver.svg",
+      "tags": [
+        "screwdriver"
+      ]
+    },
+    {
+      "name": "search",
+      "label": "Search",
+      "file": "search.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/search.svg",
+      "tags": [
+        "search"
+      ]
+    },
+    {
+      "name": "server",
+      "label": "Server",
+      "file": "server.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/server.svg",
+      "tags": [
+        "server"
+      ]
+    },
+    {
+      "name": "shield-check",
+      "label": "Shield Check",
+      "file": "shield-check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/shield-check.svg",
+      "tags": [
+        "shield",
+        "check"
+      ]
+    },
+    {
+      "name": "shield-outline",
+      "label": "Shield Outline",
+      "file": "shield-outline.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/shield-outline.svg",
+      "tags": [
+        "shield",
+        "outline"
+      ]
+    },
+    {
+      "name": "shield",
+      "label": "Shield",
+      "file": "shield.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/shield.svg",
+      "tags": [
+        "shield"
+      ]
+    },
+    {
+      "name": "sink",
+      "label": "Sink",
+      "file": "sink.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/sink.svg",
+      "tags": [
+        "sink"
+      ]
+    },
+    {
+      "name": "sofa",
+      "label": "Sofa",
+      "file": "sofa.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/sofa.svg",
+      "tags": [
+        "sofa"
+      ]
+    },
+    {
+      "name": "solar-panel",
+      "label": "Solar Panel",
+      "file": "solar-panel.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/solar-panel.svg",
+      "tags": [
+        "solar",
+        "panel"
+      ]
+    },
+    {
+      "name": "sparkles",
+      "label": "Sparkles",
+      "file": "sparkles.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/sparkles.svg",
+      "tags": [
+        "sparkles"
+      ]
+    },
+    {
+      "name": "stairs",
+      "label": "Stairs",
+      "file": "stairs.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/stairs.svg",
+      "tags": [
+        "stairs"
+      ]
+    },
+    {
+      "name": "star",
+      "label": "Star",
+      "file": "star.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/star.svg",
+      "tags": [
+        "star"
+      ]
+    },
+    {
+      "name": "stethoscope",
+      "label": "Stethoscope",
+      "file": "stethoscope.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/stethoscope.svg",
+      "tags": [
+        "stethoscope"
+      ]
+    },
+    {
+      "name": "stopwatch",
+      "label": "Stopwatch",
+      "file": "stopwatch.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/stopwatch.svg",
+      "tags": [
+        "stopwatch"
+      ]
+    },
+    {
+      "name": "store",
+      "label": "Store",
+      "file": "store.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/store.svg",
+      "tags": [
+        "store"
+      ]
+    },
+    {
+      "name": "table",
+      "label": "Table",
+      "file": "table.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/table.svg",
+      "tags": [
+        "table"
+      ]
+    },
+    {
+      "name": "tablet",
+      "label": "Tablet",
+      "file": "tablet.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/tablet.svg",
+      "tags": [
+        "tablet"
+      ]
+    },
+    {
+      "name": "tag",
+      "label": "Tag",
+      "file": "tag.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/tag.svg",
+      "tags": [
+        "tag"
+      ]
+    },
+    {
+      "name": "target",
+      "label": "Target",
+      "file": "target.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/target.svg",
+      "tags": [
+        "target"
+      ]
+    },
+    {
+      "name": "terminal",
+      "label": "Terminal",
+      "file": "terminal.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/terminal.svg",
+      "tags": [
+        "terminal"
+      ]
+    },
+    {
+      "name": "toilet",
+      "label": "Toilet",
+      "file": "toilet.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/toilet.svg",
+      "tags": [
+        "toilet"
+      ]
+    },
+    {
+      "name": "toolbox",
+      "label": "Toolbox",
+      "file": "toolbox.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/toolbox.svg",
+      "tags": [
+        "toolbox"
+      ]
+    },
+    {
+      "name": "train",
+      "label": "Train",
+      "file": "train.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/train.svg",
+      "tags": [
+        "train"
+      ]
+    },
+    {
+      "name": "trash",
+      "label": "Trash",
+      "file": "trash.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/trash.svg",
+      "tags": [
+        "trash"
+      ]
+    },
+    {
+      "name": "tree",
+      "label": "Tree",
+      "file": "tree.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/tree.svg",
+      "tags": [
+        "tree"
+      ]
+    },
+    {
+      "name": "trophy",
+      "label": "Trophy",
+      "file": "trophy.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/trophy.svg",
+      "tags": [
+        "trophy"
+      ]
+    },
+    {
+      "name": "truck",
+      "label": "Truck",
+      "file": "truck.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/truck.svg",
+      "tags": [
+        "truck"
+      ]
+    },
+    {
+      "name": "unlock",
+      "label": "Unlock",
+      "file": "unlock.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/unlock.svg",
+      "tags": [
+        "unlock"
+      ]
+    },
+    {
+      "name": "upload",
+      "label": "Upload",
+      "file": "upload.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/upload.svg",
+      "tags": [
+        "upload"
+      ]
+    },
+    {
+      "name": "user-check",
+      "label": "User Check",
+      "file": "user-check.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/user-check.svg",
+      "tags": [
+        "user",
+        "check"
+      ]
+    },
+    {
+      "name": "user-minus",
+      "label": "User Minus",
+      "file": "user-minus.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/user-minus.svg",
+      "tags": [
+        "user",
+        "minus"
+      ]
+    },
+    {
+      "name": "user-plus",
+      "label": "User Plus",
+      "file": "user-plus.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/user-plus.svg",
+      "tags": [
+        "user",
+        "plus"
+      ]
+    },
+    {
+      "name": "user-x",
+      "label": "User X",
+      "file": "user-x.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/user-x.svg",
+      "tags": [
+        "user",
+        "x"
+      ]
+    },
+    {
+      "name": "user",
+      "label": "User",
+      "file": "user.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/user.svg",
+      "tags": [
+        "user"
+      ]
+    },
+    {
+      "name": "users",
+      "label": "Users",
+      "file": "users.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/users.svg",
+      "tags": [
+        "users"
+      ]
+    },
+    {
+      "name": "utensils",
+      "label": "Utensils",
+      "file": "utensils.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/utensils.svg",
+      "tags": [
+        "utensils"
+      ]
+    },
+    {
+      "name": "van",
+      "label": "Van",
+      "file": "van.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/van.svg",
+      "tags": [
+        "van"
+      ]
+    },
+    {
+      "name": "verified",
+      "label": "Verified",
+      "file": "verified.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/verified.svg",
+      "tags": [
+        "verified"
+      ]
+    },
+    {
+      "name": "walking",
+      "label": "Walking",
+      "file": "walking.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/walking.svg",
+      "tags": [
+        "walking"
+      ]
+    },
+    {
+      "name": "wallet",
+      "label": "Wallet",
+      "file": "wallet.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/wallet.svg",
+      "tags": [
+        "wallet"
+      ]
+    },
+    {
+      "name": "warehouse",
+      "label": "Warehouse",
+      "file": "warehouse.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/warehouse.svg",
+      "tags": [
+        "warehouse"
+      ]
+    },
+    {
+      "name": "warning",
+      "label": "Warning",
+      "file": "warning.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/warning.svg",
+      "tags": [
+        "warning"
+      ]
+    },
+    {
+      "name": "washer",
+      "label": "Washer",
+      "file": "washer.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/washer.svg",
+      "tags": [
+        "washer"
+      ]
+    },
+    {
+      "name": "water-drop",
+      "label": "Water Drop",
+      "file": "water-drop.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/water-drop.svg",
+      "tags": [
+        "water",
+        "drop"
+      ]
+    },
+    {
+      "name": "waves",
+      "label": "Waves",
+      "file": "waves.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/waves.svg",
+      "tags": [
+        "waves"
+      ]
+    },
+    {
+      "name": "wifi",
+      "label": "Wifi",
+      "file": "wifi.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/wifi.svg",
+      "tags": [
+        "wifi"
+      ]
+    },
+    {
+      "name": "window",
+      "label": "Window",
+      "file": "window.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/window.svg",
+      "tags": [
+        "window"
+      ]
+    },
+    {
+      "name": "workflow",
+      "label": "Workflow",
+      "file": "workflow.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/workflow.svg",
+      "tags": [
+        "workflow"
+      ]
+    },
+    {
+      "name": "wrench",
+      "label": "Wrench",
+      "file": "wrench.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/wrench.svg",
+      "tags": [
+        "wrench"
+      ]
+    },
+    {
+      "name": "x",
+      "label": "X",
+      "file": "x.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/x.svg",
+      "tags": [
+        "x"
+      ]
+    },
+    {
+      "name": "zap",
+      "label": "Zap",
+      "file": "zap.svg",
+      "folder": "core-icons",
+      "category": "core",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/core-icons/zap.svg",
+      "tags": [
+        "zap"
+      ]
+    },
+    {
+      "name": "adobe",
+      "label": "Adobe",
+      "file": "adobe.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/adobe.svg",
+      "tags": [
+        "adobe"
+      ]
+    },
+    {
+      "name": "air-canada",
+      "label": "Air Canada",
+      "file": "air-canada.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/air-canada.svg",
+      "tags": [
+        "air",
+        "canada"
+      ]
+    },
+    {
+      "name": "alaska-airlines",
+      "label": "Alaska Airlines",
+      "file": "alaska-airlines.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/alaska-airlines.svg",
+      "tags": [
+        "alaska",
+        "airlines"
+      ]
+    },
+    {
+      "name": "amazon",
+      "label": "Amazon",
+      "file": "amazon.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/amazon.svg",
+      "tags": [
+        "amazon"
+      ]
+    },
+    {
+      "name": "american-airlines",
+      "label": "American Airlines",
+      "file": "american-airlines.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/american-airlines.svg",
+      "tags": [
+        "american",
+        "airlines"
+      ]
+    },
+    {
+      "name": "best-buy",
+      "label": "Best Buy",
+      "file": "best-buy.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/best-buy.svg",
+      "tags": [
+        "best",
+        "buy"
+      ]
+    },
+    {
+      "name": "british-airways",
+      "label": "British Airways",
+      "file": "british-airways.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/british-airways.svg",
+      "tags": [
+        "british",
+        "airways"
+      ]
+    },
+    {
+      "name": "cisco",
+      "label": "Cisco",
+      "file": "cisco.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/cisco.svg",
+      "tags": [
+        "cisco"
+      ]
+    },
+    {
+      "name": "costco",
+      "label": "Costco",
+      "file": "costco.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/costco.svg",
+      "tags": [
+        "costco"
+      ]
+    },
+    {
+      "name": "cvs",
+      "label": "Cvs",
+      "file": "cvs.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/cvs.svg",
+      "tags": [
+        "cvs"
+      ]
+    },
+    {
+      "name": "dell-technologies",
+      "label": "Dell Technologies",
+      "file": "dell-technologies.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/dell-technologies.svg",
+      "tags": [
+        "dell",
+        "technologies"
+      ]
+    },
+    {
+      "name": "delta",
+      "label": "Delta",
+      "file": "delta.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/delta.svg",
+      "tags": [
+        "delta"
+      ]
+    },
+    {
+      "name": "emirates",
+      "label": "Emirates",
+      "file": "emirates.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/emirates.svg",
+      "tags": [
+        "emirates"
+      ]
+    },
+    {
+      "name": "fairmont",
+      "label": "Fairmont",
+      "file": "fairmont.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/fairmont.svg",
+      "tags": [
+        "fairmont"
+      ]
+    },
+    {
+      "name": "four-seasons",
+      "label": "Four Seasons",
+      "file": "four-seasons.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/four-seasons.svg",
+      "tags": [
+        "four",
+        "seasons"
+      ]
+    },
+    {
+      "name": "google",
+      "label": "Google",
+      "file": "google.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/google.svg",
+      "tags": [
+        "google"
+      ]
+    },
+    {
+      "name": "hewlett-packard-enterprise",
+      "label": "Hewlett Packard Enterprise",
+      "file": "hewlett-packard-enterprise.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/hewlett-packard-enterprise.svg",
+      "tags": [
+        "hewlett",
+        "packard",
+        "enterprise"
+      ]
+    },
+    {
+      "name": "hilton",
+      "label": "Hilton",
+      "file": "hilton.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/hilton.svg",
+      "tags": [
+        "hilton"
+      ]
+    },
+    {
+      "name": "hyatt",
+      "label": "Hyatt",
+      "file": "hyatt.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/hyatt.svg",
+      "tags": [
+        "hyatt"
+      ]
+    },
+    {
+      "name": "ibm",
+      "label": "Ibm",
+      "file": "ibm.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/ibm.svg",
+      "tags": [
+        "ibm"
+      ]
+    },
+    {
+      "name": "ihg",
+      "label": "Ihg",
+      "file": "ihg.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/ihg.svg",
+      "tags": [
+        "ihg"
+      ]
+    },
+    {
+      "name": "ikea",
+      "label": "Ikea",
+      "file": "ikea.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/ikea.svg",
+      "tags": [
+        "ikea"
+      ]
+    },
+    {
+      "name": "intel",
+      "label": "Intel",
+      "file": "intel.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/intel.svg",
+      "tags": [
+        "intel"
+      ]
+    },
+    {
+      "name": "kroger",
+      "label": "Kroger",
+      "file": "kroger.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/kroger.svg",
+      "tags": [
+        "kroger"
+      ]
+    },
+    {
+      "name": "linkedin",
+      "label": "Linkedin",
+      "file": "linkedin.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/linkedin.svg",
+      "tags": [
+        "linkedin"
+      ]
+    },
+    {
+      "name": "loews",
+      "label": "Loews",
+      "file": "loews.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/loews.svg",
+      "tags": [
+        "loews"
+      ]
+    },
+    {
+      "name": "lowes",
+      "label": "Lowes",
+      "file": "lowes.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/lowes.svg",
+      "tags": [
+        "lowes"
+      ]
+    },
+    {
+      "name": "lufthansa",
+      "label": "Lufthansa",
+      "file": "lufthansa.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/lufthansa.svg",
+      "tags": [
+        "lufthansa"
+      ]
+    },
+    {
+      "name": "marriott",
+      "label": "Marriott",
+      "file": "marriott.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/marriott.svg",
+      "tags": [
+        "marriott"
+      ]
+    },
+    {
+      "name": "meta",
+      "label": "Meta",
+      "file": "meta.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/meta.svg",
+      "tags": [
+        "meta"
+      ]
+    },
+    {
+      "name": "microsoft",
+      "label": "Microsoft",
+      "file": "microsoft.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/microsoft.svg",
+      "tags": [
+        "microsoft"
+      ]
+    },
+    {
+      "name": "nvidia",
+      "label": "Nvidia",
+      "file": "nvidia.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/nvidia.svg",
+      "tags": [
+        "nvidia"
+      ]
+    },
+    {
+      "name": "omni-hotels",
+      "label": "Omni Hotels",
+      "file": "omni-hotels.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/omni-hotels.svg",
+      "tags": [
+        "omni",
+        "hotels"
+      ]
+    },
+    {
+      "name": "openai",
+      "label": "Openai",
+      "file": "openai.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/openai.svg",
+      "tags": [
+        "openai"
+      ]
+    },
+    {
+      "name": "oracle",
+      "label": "Oracle",
+      "file": "oracle.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/oracle.svg",
+      "tags": [
+        "oracle"
+      ]
+    },
+    {
+      "name": "qatar-airways",
+      "label": "Qatar Airways",
+      "file": "qatar-airways.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/qatar-airways.svg",
+      "tags": [
+        "qatar",
+        "airways"
+      ]
+    },
+    {
+      "name": "qualcomm",
+      "label": "Qualcomm",
+      "file": "qualcomm.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/qualcomm.svg",
+      "tags": [
+        "qualcomm"
+      ]
+    },
+    {
+      "name": "ritz-carlton",
+      "label": "Ritz Carlton",
+      "file": "ritz-carlton.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/ritz-carlton.svg",
+      "tags": [
+        "ritz",
+        "carlton"
+      ]
+    },
+    {
+      "name": "salesforce",
+      "label": "Salesforce",
+      "file": "salesforce.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/salesforce.svg",
+      "tags": [
+        "salesforce"
+      ]
+    },
+    {
+      "name": "sap",
+      "label": "Sap",
+      "file": "sap.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/sap.svg",
+      "tags": [
+        "sap"
+      ]
+    },
+    {
+      "name": "servicenow",
+      "label": "Servicenow",
+      "file": "servicenow.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/servicenow.svg",
+      "tags": [
+        "servicenow"
+      ]
+    },
+    {
+      "name": "sheraton",
+      "label": "Sheraton",
+      "file": "sheraton.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/sheraton.svg",
+      "tags": [
+        "sheraton"
+      ]
+    },
+    {
+      "name": "southwest",
+      "label": "Southwest",
+      "file": "southwest.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/southwest.svg",
+      "tags": [
+        "southwest"
+      ]
+    },
+    {
+      "name": "target",
+      "label": "Target",
+      "file": "target.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/target.svg",
+      "tags": [
+        "target"
+      ]
+    },
+    {
+      "name": "united-airlines",
+      "label": "United Airlines",
+      "file": "united-airlines.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/united-airlines.svg",
+      "tags": [
+        "united",
+        "airlines"
+      ]
+    },
+    {
+      "name": "vmware",
+      "label": "Vmware",
+      "file": "vmware.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/vmware.svg",
+      "tags": [
+        "vmware"
+      ]
+    },
+    {
+      "name": "walgreens",
+      "label": "Walgreens",
+      "file": "walgreens.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/walgreens.svg",
+      "tags": [
+        "walgreens"
+      ]
+    },
+    {
+      "name": "walmart",
+      "label": "Walmart",
+      "file": "walmart.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/walmart.svg",
+      "tags": [
+        "walmart"
+      ]
+    },
+    {
+      "name": "westin",
+      "label": "Westin",
+      "file": "westin.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/westin.svg",
+      "tags": [
+        "westin"
+      ]
+    },
+    {
+      "name": "wyndham",
+      "label": "Wyndham",
+      "file": "wyndham.svg",
+      "folder": "corps",
+      "category": "corporate",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/corps/wyndham.svg",
+      "tags": [
+        "wyndham"
+      ]
+    },
+    {
+      "name": "apple-fill",
+      "label": "Apple Fill",
+      "file": "apple-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/apple-fill.svg",
+      "tags": [
+        "apple",
+        "fill"
+      ]
+    },
+    {
+      "name": "apple-outline",
+      "label": "Apple Outline",
+      "file": "apple-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/apple-outline.svg",
+      "tags": [
+        "apple",
+        "outline"
+      ]
+    },
+    {
+      "name": "facebook-fill",
+      "label": "Facebook Fill",
+      "file": "facebook-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/facebook-fill.svg",
+      "tags": [
+        "facebook",
+        "fill"
+      ]
+    },
+    {
+      "name": "facebook-outline",
+      "label": "Facebook Outline",
+      "file": "facebook-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/facebook-outline.svg",
+      "tags": [
+        "facebook",
+        "outline"
+      ]
+    },
+    {
+      "name": "google-fill",
+      "label": "Google Fill",
+      "file": "google-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/google-fill.svg",
+      "tags": [
+        "google",
+        "fill"
+      ]
+    },
+    {
+      "name": "google-outline",
+      "label": "Google Outline",
+      "file": "google-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/google-outline.svg",
+      "tags": [
+        "google",
+        "outline"
+      ]
+    },
+    {
+      "name": "instagram-fill",
+      "label": "Instagram Fill",
+      "file": "instagram-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/instagram-fill.svg",
+      "tags": [
+        "instagram",
+        "fill"
+      ]
+    },
+    {
+      "name": "instagram-outline",
+      "label": "Instagram Outline",
+      "file": "instagram-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/instagram-outline.svg",
+      "tags": [
+        "instagram",
+        "outline"
+      ]
+    },
+    {
+      "name": "linkedin-fill",
+      "label": "Linkedin Fill",
+      "file": "linkedin-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/linkedin-fill.svg",
+      "tags": [
+        "linkedin",
+        "fill"
+      ]
+    },
+    {
+      "name": "linkedin-outline",
+      "label": "Linkedin Outline",
+      "file": "linkedin-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/linkedin-outline.svg",
+      "tags": [
+        "linkedin",
+        "outline"
+      ]
+    },
+    {
+      "name": "openai",
+      "label": "Openai",
+      "file": "openai.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/openai.svg",
+      "tags": [
+        "openai"
+      ]
+    },
+    {
+      "name": "slack-fill",
+      "label": "Slack Fill",
+      "file": "slack-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/slack-fill.svg",
+      "tags": [
+        "slack",
+        "fill"
+      ]
+    },
+    {
+      "name": "slack-outline",
+      "label": "Slack Outline",
+      "file": "slack-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/slack-outline.svg",
+      "tags": [
+        "slack",
+        "outline"
+      ]
+    },
+    {
+      "name": "spotify-fill",
+      "label": "Spotify Fill",
+      "file": "spotify-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/spotify-fill.svg",
+      "tags": [
+        "spotify",
+        "fill"
+      ]
+    },
+    {
+      "name": "spotify-outline",
+      "label": "Spotify Outline",
+      "file": "spotify-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/spotify-outline.svg",
+      "tags": [
+        "spotify",
+        "outline"
+      ]
+    },
+    {
+      "name": "telegram-fill",
+      "label": "Telegram Fill",
+      "file": "telegram-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/telegram-fill.svg",
+      "tags": [
+        "telegram",
+        "fill"
+      ]
+    },
+    {
+      "name": "telegram-outline",
+      "label": "Telegram Outline",
+      "file": "telegram-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/telegram-outline.svg",
+      "tags": [
+        "telegram",
+        "outline"
+      ]
+    },
+    {
+      "name": "tiktok-fill",
+      "label": "Tiktok Fill",
+      "file": "tiktok-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/tiktok-fill.svg",
+      "tags": [
+        "tiktok",
+        "fill"
+      ]
+    },
+    {
+      "name": "tiktok-outline",
+      "label": "Tiktok Outline",
+      "file": "tiktok-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/tiktok-outline.svg",
+      "tags": [
+        "tiktok",
+        "outline"
+      ]
+    },
+    {
+      "name": "website",
+      "label": "Website",
+      "file": "website.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/website.svg",
+      "tags": [
+        "website"
+      ]
+    },
+    {
+      "name": "whatsapp-fill",
+      "label": "Whatsapp Fill",
+      "file": "whatsapp-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/whatsapp-fill.svg",
+      "tags": [
+        "whatsapp",
+        "fill"
+      ]
+    },
+    {
+      "name": "whatsapp-outline",
+      "label": "Whatsapp Outline",
+      "file": "whatsapp-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/whatsapp-outline.svg",
+      "tags": [
+        "whatsapp",
+        "outline"
+      ]
+    },
+    {
+      "name": "x-twitter",
+      "label": "X Twitter",
+      "file": "x-twitter.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/x-twitter.svg",
+      "tags": [
+        "x",
+        "twitter"
+      ]
+    },
+    {
+      "name": "youtube-fill",
+      "label": "Youtube Fill",
+      "file": "youtube-fill.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/youtube-fill.svg",
+      "tags": [
+        "youtube",
+        "fill"
+      ]
+    },
+    {
+      "name": "youtube-outline",
+      "label": "Youtube Outline",
+      "file": "youtube-outline.svg",
+      "folder": "socials",
+      "category": "social",
+      "type": "svg",
+      "url": "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/socials/youtube-outline.svg",
+      "tags": [
+        "youtube",
+        "outline"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "catalog": "node scripts/generate-icons-catalog.mjs"
+  }
+}

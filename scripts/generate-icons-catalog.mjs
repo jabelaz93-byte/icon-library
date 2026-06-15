@@ -1,68 +1,110 @@
 import fs from "fs";
 import path from "path";
 
-const repoOwner = "jabelaz93-byte";
-const repoName = "icon-library";
-const branch = "main";
+const CDN_ROOT =
+  "https://cdn.jsdelivr.net/gh/jabelaz93-byte/icon-library@main/";
+const ROOT = process.cwd();
 
-const rootDir = process.cwd();
+const folders = [
+  "big-icons",
+  "calendar-icons",
+  "core-icons",
+  "corps",
+  "socials",
+];
 
-const folders = ["All", "calendar_icons", "icon_library_outline", "socials"];
+const allowedExtensions = [".svg", ".png", ".jpg", ".jpeg", ".webp"];
 
-const allowedExtensions = [".svg", ".png"];
+function titleCase(value) {
+  return value
+    .replace(/\.[^/.]+$/, "")
+    .replace(/[-_]/g, " ")
+    .replace(/\b\w/g, (char) => char.toUpperCase());
+}
 
-const categoryMap = {
-  All: "all",
-  calendar_icons: "calendar",
-  icon_library_outline: "outline",
-  socials: "social",
-};
+function getCategory(folder) {
+  if (folder === "calendar-icons") return "calendar";
+  if (folder === "core-icons") return "core";
+  if (folder === "socials") return "social";
+  if (folder === "corps") return "corporate";
+  if (folder === "big-icons") return "large";
+  return "general";
+}
 
-const getType = (file) => path.extname(file).replace(".", "");
+function getFiles(folder) {
+  const folderPath = path.join(ROOT, folder);
 
-const getName = (file) => path.basename(file, path.extname(file));
+  if (!fs.existsSync(folderPath)) return [];
 
-const createUrl = (folder, file) =>
-  `https://cdn.jsdelivr.net/gh/${repoOwner}/${repoName}@${branch}/${folder}/${file}`;
+  return fs
+    .readdirSync(folderPath)
+    .filter((file) =>
+      allowedExtensions.includes(path.extname(file).toLowerCase()),
+    )
+    .sort((a, b) => a.localeCompare(b));
+}
 
-const icons = [];
+function writeJson(filePath, data) {
+  fs.writeFileSync(filePath, JSON.stringify(data, null, 2));
+}
+
+const iconsIndex = {};
+const corpsIndex = {};
+const catalogItems = [];
 
 for (const folder of folders) {
-  const folderPath = path.join(rootDir, folder);
-
-  if (!fs.existsSync(folderPath)) continue;
-
-  const files = fs
-    .readdirSync(folderPath)
-    .filter((file) => allowedExtensions.includes(path.extname(file)))
-    .sort();
+  const files = getFiles(folder);
 
   for (const file of files) {
-    icons.push({
-      name: getName(file),
+    const ext = path.extname(file).replace(".", "").toLowerCase();
+    const name = path.basename(file, path.extname(file));
+    const url = `${CDN_ROOT}${folder}/${file}`;
+
+    iconsIndex[name] = url;
+
+    if (folder === "corps") {
+      corpsIndex[name] = url;
+    }
+
+    catalogItems.push({
+      name,
+      label: titleCase(file),
       file,
       folder,
-      category: categoryMap[folder] ?? "uncategorized",
-      type: getType(file),
-      url: createUrl(folder, file),
-      tags: getName(file).split("-"),
+      category: getCategory(folder),
+      type: ext,
+      url,
+      tags: name.split("-"),
     });
   }
 }
 
 const catalog = {
   name: "Icon Library",
-  repository: `https://github.com/${repoOwner}/${repoName}`,
+  repository: "https://github.com/jabelaz93-byte/icon-library",
   cdnProvider: "jsDelivr",
-  cdnRoot: `https://cdn.jsdelivr.net/gh/${repoOwner}/${repoName}@${branch}/`,
-  totalIcons: icons.length,
+  cdnRoot: CDN_ROOT,
+  totalAssets: catalogItems.length,
   folders,
-  icons,
+  generatedAt: new Date().toISOString(),
+  icons: catalogItems,
 };
 
-fs.writeFileSync(
-  path.join(rootDir, "ICONS_CATALOG.json"),
-  JSON.stringify(catalog, null, 2),
-);
+const iconLibraryJs = `window.IconLibrary = ${JSON.stringify(iconsIndex, null, 2)};`;
 
-console.log(`Generated ICONS_CATALOG.json with ${icons.length} icons.`);
+writeJson(path.join(ROOT, "indexes", "icons-index.json"), iconsIndex);
+writeJson(path.join(ROOT, "indexes", "corps-index.json"), corpsIndex);
+writeJson(path.join(ROOT, "indexes", "icons-catalog.json"), catalog);
+
+fs.writeFileSync(path.join(ROOT, "indexes", "icon-library.js"), iconLibraryJs);
+
+console.log(
+  `Generated indexes/icons-index.json: ${Object.keys(iconsIndex).length} assets`,
+);
+console.log(
+  `Generated indexes/corps-index.json: ${Object.keys(corpsIndex).length} logos`,
+);
+console.log(
+  `Generated indexes/icons-catalog.json: ${catalogItems.length} catalog items`,
+);
+console.log("Generated indexes/icon-library.js");
